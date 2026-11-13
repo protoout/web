@@ -1,0 +1,68 @@
+---
+import styles from '../data/styles.json';
+import articleStyles from '../data/article-styles.json';
+import fontStyles from '../data/font-styles.json';
+interface Props { page: {path:string;title:string;description:string;html:string;css:string} }
+const {page}=Astro.props;
+const article=!(["","biz","school","contact","lp-fb"].includes(page.path));
+const base=import.meta.env.BASE_URL.replace(/\/?$/, '/');
+const local=(text:string)=>text.replaceAll('__PROTOOUT_BASE__',base);
+---
+<!doctype html>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="robots" content="noindex, nofollow, noarchive, noimageindex" />
+    <meta name="googlebot" content="noindex, nofollow, noarchive, noimageindex" />
+    <title>{page.title}</title>
+    <meta name="description" content={page.description} />
+    <meta property="og:title" content={page.title} />
+    <meta property="og:description" content={page.description} />
+    <meta property="og:type" content={page.path?'article':'website'} />
+    <style is:inline set:html={local(fontStyles)} />
+    <style is:inline set:html={local(styles)} />
+    <style is:inline set:html={local(page.css)} />
+    {article && <style is:inline set:html={articleStyles+"#header-link-0,#header-link-2,#header-link-6,#header-link-7,#header-menu-link-0,#header-menu-link-2,#header-menu-link-6,#header-menu-link-7{display:none!important}"} />}
+    <style is:inline>
+      [data-copy-hidden][hidden] { display: none !important; }
+      [data-load-more] { cursor: pointer; }
+      .article-cta-bar { font-family: "Noto Sans JP", "Helvetica Neue", Arial, "Hiragino Kaku Gothic ProN", "Hiragino Sans", Meiryo, sans-serif; line-height: 24px; }
+      .notion-asset-wrapper-video > div:has(> iframe[src*="youtube.com/embed/"]) { padding-bottom: 56.25% !important; }
+    </style>
+  </head>
+  <body>
+    <div id="__next" set:html={local(page.html)} />
+    {article && <div class="article-cta-bar">
+      <a href={base+'?utm_source=blog_article'} class="article-cta article-cta--white"><span class="cta-label--full">プロトアウトスタジオの詳細はこちら</span><span class="cta-label--short">スクール詳細はこちら</span><span class="article-cta-arrow">〉</span></a>
+      <a href="https://forms.gle/Jq1zcZafH8Cmi7es9" class="article-cta article-cta--red" target="_blank" rel="noopener noreferrer"><span class="cta-label--full">お役立ち資料無料ダウンロード</span><span class="cta-label--short">無料資料請求</span><span class="article-cta-arrow">〉</span></a>
+    </div>}
+    {page.html.includes('class="twitter-tweet"') && <script is:inline async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>}
+    <script>
+      const header=document.querySelector('header.header');
+      const opener=document.getElementById('header-btn-menu');
+      const closer=document.getElementById('header-btn-close');
+      const menu=document.getElementById('headerMenu');
+      function toggle(open:boolean){
+        header?.classList.toggle('header--menuActive',open);
+        opener?.setAttribute('aria-expanded',String(open));
+        if(open)(menu?.querySelector('a') as HTMLElement)?.focus();
+        else (opener as HTMLElement)?.focus();
+      }
+      opener?.addEventListener('click',()=>toggle(true));
+      closer?.addEventListener('click',()=>toggle(false));
+      document.addEventListener('keydown',e=>{if(e.key==='Escape'&&header?.classList.contains('header--menuActive'))toggle(false)});
+      document.addEventListener('click',e=>{if(header?.classList.contains('header--menuActive')&&!header.contains(e.target as Node))toggle(false)});
+      document.querySelectorAll('[data-load-more]').forEach(button=>button.addEventListener('click',()=>{
+        const parent=button.closest('.notion-collection')||button.parentElement?.parentElement||document;
+        parent.querySelectorAll('[data-copy-hidden]').forEach(card=>card.removeAttribute('hidden'));
+        button.remove();
+      }));
+      function jump(){
+        const hash=decodeURIComponent(location.hash.slice(1));
+        if(hash&&!document.getElementById(hash))document.getElementById('block-'+hash.replaceAll('-',''))?.scrollIntoView();
+      }
+      window.addEventListener('hashchange',jump);if(location.hash)requestAnimationFrame(jump);
+    </script>
+  </body>
+</html>

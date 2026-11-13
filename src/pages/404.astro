@@ -1,0 +1,6 @@
+---
+import SnapshotPage from '../components/SnapshotPage.astro';
+const base=import.meta.env.BASE_URL;
+const page={path:'404',title:'ページが見つかりません',description:'検証用コピーサイトに含まれないページです。',css:'main{max-width:800px;margin:10vh auto;padding:24px;font-family:sans-serif}',html:`<main><h1>ページが見つかりません</h1><p>このページは検証用コピーに含まれていません。</p><a href="${base}">トップページへ</a></main>`};
+---
+<SnapshotPage page={page} />

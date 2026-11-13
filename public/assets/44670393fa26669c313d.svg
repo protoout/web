@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <defs>
+    <style>
+      .a {
+        fill: none;
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 4px;
+      }
+    </style>
+  </defs>
+  <title>1096_pc_f</title>
+  <g>
+    <polyline class="a" points="21 33 18 41 30 41 27 33"/>
+    <rect class="a" x="7" y="7" width="34" height="26" rx="2"/>
+    <line class="a" x1="7" y1="25" x2="41" y2="25"/>
+  </g>
+</svg>

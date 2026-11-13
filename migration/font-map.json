@@ -1,0 +1,18 @@
+[
+  {
+    "sourceUrl": "https://fonts.gstatic.com/s/notosansjp/v57/-F6jfjtqLzI2JPCgQBnw7HFyzSD-AsregP8VFBEj75s.ttf",
+    "path": "assets/a488fa408fd4b60872eb.ttf",
+    "bytes": 5703608,
+    "mime": "font/ttf",
+    "sha256": "f037d714109f22d57ce75fd9a6b9d23439c903061fb11106c070b2dcc03f2021",
+    "status": "downloaded"
+  },
+  {
+    "sourceUrl": "https://fonts.gstatic.com/s/notosansjp/v57/-F6jfjtqLzI2JPCgQBnw7HFyzSD-AsregP8VFPYk75s.ttf",
+    "path": "assets/a837e86a4106faa5e132.ttf",
+    "bytes": 5698616,
+    "mime": "font/ttf",
+    "sha256": "59bb5d2915bba3a256950116e7a48a810bd8cde63793d5111b9e5726eec1e799",
+    "status": "downloaded"
+  }
+]

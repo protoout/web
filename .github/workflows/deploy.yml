@@ -1,0 +1,42 @@
+name: Publish preview to GitHub Pages
+on:
+  workflow_dispatch:
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+concurrency:
+  group: pages
+  cancel-in-progress: false
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - name: Configure repository URL
+        shell: bash
+        run: |
+          repo="${GITHUB_REPOSITORY#*/}"
+          owner="${GITHUB_REPOSITORY_OWNER}"
+          echo "PAGES_SITE=https://${owner}.github.io" >> "$GITHUB_ENV"
+          if [[ "${repo,,}" == "${owner,,}.github.io" ]]; then
+            echo "PAGES_BASE=/" >> "$GITHUB_ENV"
+          else
+            echo "PAGES_BASE=/${repo}/" >> "$GITHUB_ENV"
+          fi
+      - name: Build static Astro site
+        uses: withastro/action@v6
+        with:
+          node-version: 24
+      - name: Verify preview indexing controls and local assets
+        run: npm run verify
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy
+        id: deployment
+        uses: actions/deploy-pages@v5

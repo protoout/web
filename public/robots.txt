@@ -1,0 +1,13 @@
+# Preview copy. Every HTML page has a noindex meta tag.
+# Search crawlers must be able to fetch HTML to read noindex.
+User-agent: *
+Allow: /
+
+User-agent: GPTBot
+User-agent: ClaudeBot
+User-agent: Google-Extended
+User-agent: CCBot
+User-agent: Amazonbot
+User-agent: Bytespider
+User-agent: Applebot-Extended
+Disallow: /

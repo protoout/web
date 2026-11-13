@@ -1,0 +1,308 @@
+[
+  {
+    "page": "home",
+    "viewport": [
+      1440,
+      1000
+    ],
+    "sourceScreenshot": "outputs/screenshots/01-home-1440.jpg",
+    "implementationScreenshot": "outputs/protoout-astro/qa/home-1440.jpg",
+    "sourcePixels": [
+      1440,
+      4721
+    ],
+    "implementationPixels": [
+      1440,
+      4721
+    ]
+  },
+  {
+    "page": "home",
+    "viewport": [
+      390,
+      844
+    ],
+    "sourceScreenshot": "outputs/screenshots/03-home-390.jpg",
+    "implementationScreenshot": "outputs/protoout-astro/qa/home-390.jpg",
+    "sourcePixels": [
+      390,
+      6985
+    ],
+    "implementationPixels": [
+      390,
+      6985
+    ]
+  },
+  {
+    "page": "school",
+    "viewport": [
+      1440,
+      1000
+    ],
+    "sourceScreenshot": "outputs/screenshots/11-school-1440.jpg",
+    "implementationScreenshot": "outputs/protoout-astro/qa/school-1440.jpg",
+    "sourcePixels": [
+      1440,
+      18690
+    ],
+    "implementationPixels": [
+      1440,
+      18690
+    ]
+  },
+  {
+    "page": "school",
+    "viewport": [
+      390,
+      844
+    ],
+    "sourceScreenshot": "outputs/screenshots/13-school-390.jpg",
+    "implementationScreenshot": "outputs/protoout-astro/qa/school-390.jpg",
+    "sourcePixels": [
+      390,
+      29041
+    ],
+    "implementationPixels": [
+      390,
+      29003
+    ]
+  },
+  {
+    "page": "biz",
+    "viewport": [
+      1440,
+      1000
+    ],
+    "sourceScreenshot": "outputs/screenshots/14-biz-1440.jpg",
+    "implementationScreenshot": "outputs/protoout-astro/qa/biz-1440.jpg",
+    "sourcePixels": [
+      1440,
+      13481
+    ],
+    "implementationPixels": [
+      1440,
+      13481
+    ]
+  },
+  {
+    "page": "biz",
+    "viewport": [
+      390,
+      844
+    ],
+    "sourceScreenshot": "outputs/screenshots/16-biz-390.jpg",
+    "implementationScreenshot": "outputs/protoout-astro/qa/biz-390.jpg",
+    "sourcePixels": [
+      390,
+      23587
+    ],
+    "implementationPixels": [
+      390,
+      23587
+    ]
+  },
+  {
+    "page": "posts",
+    "viewport": [
+      1440,
+      1000
+    ],
+    "sourceScreenshot": "outputs/screenshots/05-posts-1440.jpg",
+    "implementationScreenshot": "outputs/protoout-astro/qa/posts-1440.jpg",
+    "sourcePixels": [
+      1440,
+      2914
+    ],
+    "implementationPixels": [
+      1440,
+      2914
+    ]
+  },
+  {
+    "page": "posts",
+    "viewport": [
+      390,
+      844
+    ],
+    "sourceScreenshot": "outputs/screenshots/07-posts-390.jpg",
+    "implementationScreenshot": "outputs/protoout-astro/qa/posts-390.jpg",
+    "sourcePixels": [
+      390,
+      5452
+    ],
+    "implementationPixels": [
+      390,
+      5452
+    ]
+  },
+  {
+    "page": "interviews",
+    "viewport": [
+      1440,
+      1000
+    ],
+    "sourceScreenshot": "outputs/screenshots/18-interviews-1440.jpg",
+    "implementationScreenshot": "outputs/protoout-astro/qa/interviews-1440.jpg",
+    "sourcePixels": [
+      1440,
+      4507
+    ],
+    "implementationPixels": [
+      1440,
+      4507
+    ]
+  },
+  {
+    "page": "interviews",
+    "viewport": [
+      390,
+      844
+    ],
+    "sourceScreenshot": "outputs/screenshots/20-interviews-390.jpg",
+    "implementationScreenshot": "outputs/protoout-astro/qa/interviews-390.jpg",
+    "sourcePixels": [
+      390,
+      4996
+    ],
+    "implementationPixels": [
+      390,
+      4996
+    ]
+  },
+  {
+    "page": "gallery",
+    "viewport": [
+      1440,
+      1000
+    ],
+    "sourceScreenshot": "outputs/screenshots/21-gallery-1440.jpg",
+    "implementationScreenshot": "outputs/protoout-astro/qa/gallery-1440.jpg",
+    "sourcePixels": [
+      1440,
+      4340
+    ],
+    "implementationPixels": [
+      1440,
+      4340
+    ]
+  },
+  {
+    "page": "gallery",
+    "viewport": [
+      390,
+      844
+    ],
+    "sourceScreenshot": "outputs/screenshots/23-gallery-390.jpg",
+    "implementationScreenshot": "outputs/protoout-astro/qa/gallery-390.jpg",
+    "sourcePixels": [
+      390,
+      8371
+    ],
+    "implementationPixels": [
+      390,
+      8371
+    ]
+  },
+  {
+    "page": "article",
+    "viewport": [
+      1440,
+      1000
+    ],
+    "sourceScreenshot": "outputs/screenshots/08-article-1440.jpg",
+    "implementationScreenshot": "outputs/protoout-astro/qa/article-1440.jpg",
+    "sourcePixels": [
+      1440,
+      7265
+    ],
+    "implementationPixels": [
+      1440,
+      7265
+    ]
+  },
+  {
+    "page": "article",
+    "viewport": [
+      390,
+      844
+    ],
+    "sourceScreenshot": "outputs/screenshots/10-article-390.jpg",
+    "implementationScreenshot": "outputs/protoout-astro/qa/article-390.jpg",
+    "sourcePixels": [
+      390,
+      8201
+    ],
+    "implementationPixels": [
+      390,
+      8203
+    ]
+  },
+  {
+    "page": "interview-detail",
+    "viewport": [
+      1440,
+      1000
+    ],
+    "sourceScreenshot": "outputs/screenshots/24-interview-detail-1440.jpg",
+    "implementationScreenshot": "outputs/protoout-astro/qa/interview-detail-1440.jpg",
+    "sourcePixels": [
+      1440,
+      3103
+    ],
+    "implementationPixels": [
+      1440,
+      3103
+    ]
+  },
+  {
+    "page": "interview-detail",
+    "viewport": [
+      390,
+      844
+    ],
+    "sourceScreenshot": "outputs/screenshots/26-interview-detail-390.jpg",
+    "implementationScreenshot": "outputs/protoout-astro/qa/interview-detail-390.jpg",
+    "sourcePixels": [
+      390,
+      3744
+    ],
+    "implementationPixels": [
+      390,
+      3744
+    ]
+  },
+  {
+    "page": "work-detail",
+    "viewport": [
+      1440,
+      1000
+    ],
+    "sourceScreenshot": "outputs/screenshots/27-work-detail-1440.jpg",
+    "implementationScreenshot": "outputs/protoout-astro/qa/work-detail-1440.jpg",
+    "sourcePixels": [
+      1440,
+      3379
+    ],
+    "implementationPixels": [
+      1440,
+      3379
+    ]
+  },
+  {
+    "page": "work-detail",
+    "viewport": [
+      390,
+      844
+    ],
+    "sourceScreenshot": "outputs/screenshots/29-work-detail-390.jpg",
+    "implementationScreenshot": "outputs/protoout-astro/qa/work-detail-390.jpg",
+    "sourcePixels": [
+      390,
+      4375
+    ],
+    "implementationPixels": [
+      390,
+      4375
+    ]
+  }
+]
