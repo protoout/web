@@ -1,0 +1,23 @@
+name: 移行対応
+description: 旧サイトとの互換性・データ保全・URL移行を管理する
+labels: [migration]
+body:
+  - type: textarea
+    id: scope
+    attributes:
+      label: 対応したいこと
+      description: 旧サイトから何を引き継ぐか、現在の課題を記載してください。
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: 根拠・対象URL
+      description: 旧URL、調査ファイル、確認できた事実と未確認事項を記載してください。
+  - type: textarea
+    id: acceptance
+    attributes:
+      label: 完了条件
+      description: 表示、URL、転送、公開範囲などの確認条件を記載してください。
+    validations:
+      required: true

@@ -1,14 +1,31 @@
 import fs from 'node:fs';
 import path from 'node:path';
+import { validatePublicationPolicy } from '../src/lib/publication-policy.mjs';
 const dist=path.resolve('dist'),base=(process.env.PAGES_BASE||'/').replace(/\/?$/,'/');
 const failedAssets=JSON.parse(fs.readFileSync('migration/asset-map.json','utf8')).filter(a=>a.status==='failed').map(a=>a.sourceUrl.replaceAll('&amp;','&'));
 const remoteCssWarnings=new Set();
 const pages=JSON.parse(fs.readFileSync('src/data/pages.json','utf8')),errors=[],missing=new Map();
 function walk(dir){return fs.readdirSync(dir,{withFileTypes:true}).flatMap(e=>e.isDirectory()?walk(path.join(dir,e.name)):[path.join(dir,e.name)]);}
+const publicationPolicy=JSON.parse(fs.readFileSync('src/data/publication-policy.json','utf8'));
+errors.push(...validatePublicationPolicy(pages,publicationPolicy));
+const mediaMap=JSON.parse(fs.readFileSync('migration/media-map.json','utf8'));
+const externalMedia=new Set();
 const htmlFiles=walk(dist).filter(f=>f.endsWith('.html'));
 for(const p of pages)if(!fs.existsSync(path.join(dist,p.path,'index.html')))errors.push(`Missing page ${p.path}`);
 for(const file of htmlFiles){
  const html=fs.readFileSync(file,'utf8');
+ const relFile=path.relative(dist,file).split(path.sep).join('/');
+ const route=relFile==='index.html'?'':relFile.replace(/\/index\.html$/,'');
+ if(relFile!=='404.html'&&!publicationPolicy.allowedPaths.includes(route))errors.push(`Unapproved HTML generated: ${relFile}`);
+ const ids=[...html.matchAll(/\bid="([^"]+)"/g)].map(m=>m[1]);
+ for(const alias of html.matchAll(/class="notion-hash-link"[^>]*href="#([a-f0-9]{32})"/g)) {
+  if(!ids.includes(alias[1])) errors.push(`Missing native heading anchor ${alias[1]} in ${relFile}`);
+ }
+ for(const m of html.matchAll(/<(?:video|source)\b[^>]*\bsrc="(https?:[^"]+)"/g)) {
+  externalMedia.add(m[1]);
+  const source=m[1].split('#')[0];
+  if(!mediaMap.some(a=>a.sourceUrl===source&&a.status==='pending')) errors.push(`Unpreserved direct media ${source}`);
+ }
  if(!/<meta\s+name="robots"\s+content="[^"]*noindex/.test(html))errors.push(`Missing noindex ${file}`);
  if(html.includes('__PROTOOUT_BASE__'))errors.push(`Unresolved base token ${file}`);
  if(/<script[^>]+src="[^"]*(?:googletagmanager|google-analytics|connect.facebook|_next\/)/.test(html))errors.push(`Original analytics/runtime ${file}`);
@@ -31,8 +48,8 @@ if(!fs.existsSync(path.join(dist,'llms.txt')))errors.push('Missing llms.txt');
 if(fs.existsSync(path.join(dist,'sitemap.xml')))errors.push('Preview should not advertise sitemap');
 const assets=walk(path.join(dist,'assets')),bytes=assets.reduce((n,f)=>n+fs.statSync(f).size,0);
 for(const f of assets)if(fs.statSync(f).size>100*1024*1024)errors.push(`Asset exceeds GitHub file limit ${f}`);
-const report={base,pages:pages.length,htmlFiles:htmlFiles.length,assetFiles:assets.length,assetBytes:bytes,unavailableSourceCssAssets:[...remoteCssWarnings],errors:[...new Set(errors)],linksOutsideCopy:[...missing].map(([url,sources])=>({url,sources}))};
+if(missing.size)errors.push('Unexpected internal links outside the copied route set');
+const report={base,approvedRoutes:publicationPolicy.allowedPaths.length,excludedRoutes:publicationPolicy.excludedPaths.length,externalDirectMedia:[...externalMedia],pages:pages.length,htmlFiles:htmlFiles.length,assetFiles:assets.length,assetBytes:bytes,unavailableSourceCssAssets:[...remoteCssWarnings],errors:[...new Set(errors)],linksOutsideCopy:[...missing].map(([url,sources])=>({url,sources}))};
 fs.writeFileSync('migration/build-verification.json',JSON.stringify(report,null,2));
 console.log(JSON.stringify({base,pages:pages.length,htmlFiles:htmlFiles.length,assets:assets.length,assetMB:Math.round(bytes/1e6),errors:report.errors.length,knownUnavailableCssAssets:remoteCssWarnings.size,linksOutsideCopy:missing.size}));
-if(missing.size)errors.push('Unexpected internal links outside the copied route set');
 if(errors.length){console.error(report.errors.slice(0,15).join('\n'));process.exit(1);}

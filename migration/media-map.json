@@ -1,0 +1,194 @@
+[
+  {
+    "sourceUrl": "https://s3.ap-northeast-1.amazonaws.com/wraptas-prod/protoout/f58e981e-4f29-4aec-af1f-c1b00e9daa3f/7773e27dc401e9d1129728cc3ce08f2f.mp4",
+    "sourceBytes": 3351529,
+    "mime": "video/mp4",
+    "pages": [
+      "https://protoout.studio/169a3ac39ff4448d93f9fe5dfff62a82"
+    ],
+    "checkedOn": "2026-11-14",
+    "status": "downloaded",
+    "path": "assets/8ff1e95b85d3a3a2a6ad.mp4",
+    "bytes": 3351529,
+    "sha256": "9ec416ae1fc472e07ad02de85aadff0d80764899539c4d211171b77e17711c24"
+  },
+  {
+    "sourceUrl": "https://s3.ap-northeast-1.amazonaws.com/wraptas-prod/protoout/b2a368cd-8607-4d5c-88ab-3d81a63295cc/f0f671be18eed5dad3650136b8ed4046.mp4",
+    "sourceBytes": 21404370,
+    "mime": "video/mp4",
+    "pages": [
+      "https://protoout.studio/169a3ac39ff4448d93f9fe5dfff62a82"
+    ],
+    "checkedOn": "2026-11-14",
+    "status": "pending",
+    "reason": "HEAD succeeded; full preservation deferred after measured slow transfer (about 46 KB/s). Original working public URL retained."
+  },
+  {
+    "sourceUrl": "https://s3.ap-northeast-1.amazonaws.com/wraptas-prod/protoout/1fe6077e-4887-8013-ab21-f8e824e1e84c/7bd30d36d6445146901268018483e121.mp4",
+    "sourceBytes": 13886077,
+    "mime": "video/mp4",
+    "pages": [
+      "https://protoout.studio/1cd6077e488780398090e01b441ad2f5"
+    ],
+    "checkedOn": "2026-11-14",
+    "status": "pending",
+    "reason": "HEAD succeeded; full preservation deferred after measured slow transfer (about 46 KB/s). Original working public URL retained."
+  },
+  {
+    "sourceUrl": "https://s3.ap-northeast-1.amazonaws.com/wraptas-prod/protoout/1fe6077e-4887-8076-834a-ecab7160de51/443760fdcc71e2be9b0c2e8d25099272.mp4",
+    "sourceBytes": 5763385,
+    "mime": "video/mp4",
+    "pages": [
+      "https://protoout.studio/1cd6077e488780398090e01b441ad2f5"
+    ],
+    "checkedOn": "2026-11-14",
+    "status": "pending",
+    "reason": "HEAD succeeded; full preservation deferred after measured slow transfer (about 46 KB/s). Original working public URL retained."
+  },
+  {
+    "sourceUrl": "https://s3.ap-northeast-1.amazonaws.com/wraptas-prod/protoout/1fe6077e-4887-80d5-a89f-fee5ad76185c/2a735e2113297875b701b6a261ba3827.mp4",
+    "sourceBytes": 6065365,
+    "mime": "video/mp4",
+    "pages": [
+      "https://protoout.studio/1cd6077e488780398090e01b441ad2f5"
+    ],
+    "checkedOn": "2026-11-14",
+    "status": "pending",
+    "reason": "HEAD succeeded; full preservation deferred after measured slow transfer (about 46 KB/s). Original working public URL retained."
+  },
+  {
+    "sourceUrl": "https://s3.ap-northeast-1.amazonaws.com/wraptas-prod/protoout/21f6077e-4887-80a9-9db1-cf3996c7e298/22493c749d528a620c72e9195d316bc3.mp4",
+    "sourceBytes": 30495784,
+    "mime": "video/mp4",
+    "pages": [
+      "https://protoout.studio/2086077e48878096a3c2fe1f43073419"
+    ],
+    "checkedOn": "2026-11-14",
+    "status": "pending",
+    "reason": "HEAD succeeded; full preservation deferred after measured slow transfer (about 46 KB/s). Original working public URL retained."
+  },
+  {
+    "sourceUrl": "https://s3.ap-northeast-1.amazonaws.com/wraptas-prod/protoout/2216077e-4887-804a-8232-cc5f12ec97a6/75aea36a731d521f75e0336933615fc8.mp4",
+    "sourceBytes": 12186852,
+    "mime": "video/mp4",
+    "pages": [
+      "https://protoout.studio/2086077e48878096a3c2fe1f43073419"
+    ],
+    "checkedOn": "2026-11-14",
+    "status": "pending",
+    "reason": "HEAD succeeded; full preservation deferred after measured slow transfer (about 46 KB/s). Original working public URL retained."
+  },
+  {
+    "sourceUrl": "https://s3.ap-northeast-1.amazonaws.com/wraptas-prod/protoout/2216077e-4887-8078-88e5-f9b7bcce9547/5af5959202070d92ae49abc022f2a292.mp4",
+    "sourceBytes": 4993894,
+    "mime": "video/mp4",
+    "pages": [
+      "https://protoout.studio/2086077e48878096a3c2fe1f43073419"
+    ],
+    "checkedOn": "2026-11-14",
+    "status": "pending",
+    "reason": "HEAD succeeded; full preservation deferred after measured slow transfer (about 46 KB/s). Original working public URL retained."
+  },
+  {
+    "sourceUrl": "https://s3.ap-northeast-1.amazonaws.com/wraptas-prod/protoout/2216077e-4887-8006-85e8-d3f62a81e3a5/971b89eaa3fcd97da91084ae17346042.mp4",
+    "sourceBytes": 22192682,
+    "mime": "video/mp4",
+    "pages": [
+      "https://protoout.studio/2086077e48878096a3c2fe1f43073419"
+    ],
+    "checkedOn": "2026-11-14",
+    "status": "pending",
+    "reason": "HEAD succeeded; full preservation deferred after measured slow transfer (about 46 KB/s). Original working public URL retained."
+  },
+  {
+    "sourceUrl": "https://s3.ap-northeast-1.amazonaws.com/wraptas-prod/protoout/1be0f035-f674-425a-a497-72165a46335f/9888a71c0c005675ca5e8a54062e1bc2.mp4",
+    "sourceBytes": 10994493,
+    "mime": "video/mp4",
+    "pages": [
+      "https://protoout.studio/29843553124a4da284816d9990cf123b",
+      "https://protoout.studio/e5958eed437548f2b98be96d9fa31f71"
+    ],
+    "checkedOn": "2026-11-14",
+    "status": "pending",
+    "reason": "HEAD succeeded; full preservation deferred after measured slow transfer (about 46 KB/s). Original working public URL retained."
+  },
+  {
+    "sourceUrl": "https://s3.ap-northeast-1.amazonaws.com/wraptas-prod/protoout/262df8b6-8c2c-40d8-83ab-646f5456dea4/139277bef1b7d28f4bdda7ed84f999d4.mp4",
+    "sourceBytes": 2157328,
+    "mime": "video/mp4",
+    "pages": [
+      "https://protoout.studio/29843553124a4da284816d9990cf123b",
+      "https://protoout.studio/91378b440f6c446ab67fe16c9f20c811"
+    ],
+    "checkedOn": "2026-11-14",
+    "status": "pending",
+    "reason": "HEAD succeeded; full preservation deferred after measured slow transfer (about 46 KB/s). Original working public URL retained."
+  },
+  {
+    "sourceUrl": "https://s3.ap-northeast-1.amazonaws.com/wraptas-prod/protoout/7c278d4d-1d37-4b6f-80c5-3aa5793980eb/4d4449b656e37e8b64b16aa945d41e92.mp4",
+    "sourceBytes": 3655382,
+    "mime": "video/mp4",
+    "pages": [
+      "https://protoout.studio/29843553124a4da284816d9990cf123b",
+      "https://protoout.studio/91378b440f6c446ab67fe16c9f20c811"
+    ],
+    "checkedOn": "2026-11-14",
+    "status": "pending",
+    "reason": "HEAD succeeded; full preservation deferred after measured slow transfer (about 46 KB/s). Original working public URL retained."
+  },
+  {
+    "sourceUrl": "https://s3.ap-northeast-1.amazonaws.com/wraptas-prod/protoout/95235f7f-1b47-4467-81b2-c6c4f56531a3/529abf48448b108c460b33058f35f32a.mov",
+    "sourceBytes": 3007439,
+    "mime": "video/quicktime",
+    "pages": [
+      "https://protoout.studio/2d3ffc37f0434ca88bdbd2793f667681"
+    ],
+    "checkedOn": "2026-11-14",
+    "status": "pending",
+    "reason": "HEAD succeeded; full preservation deferred after measured slow transfer (about 46 KB/s). Original working public URL retained."
+  },
+  {
+    "sourceUrl": "https://s3.ap-northeast-1.amazonaws.com/wraptas-prod/protoout/2b25aef9-0e8e-40c1-a276-e088a1e84c53/de71599eeff32a4afef3047786da417f.mp4",
+    "sourceBytes": 15603724,
+    "mime": "video/mp4",
+    "pages": [
+      "https://protoout.studio/8d8829a716f44fd29a148d8acc72b2f7"
+    ],
+    "checkedOn": "2026-11-14",
+    "status": "pending",
+    "reason": "HEAD succeeded; full preservation deferred after measured slow transfer (about 46 KB/s). Original working public URL retained."
+  },
+  {
+    "sourceUrl": "https://s3.ap-northeast-1.amazonaws.com/wraptas-prod/protoout/beb03934-fbf3-407c-901b-1a0d59f555db/2f4c80a4b5580dd61aad168319884ef5.mp4",
+    "sourceBytes": 13360935,
+    "mime": "video/mp4",
+    "pages": [
+      "https://protoout.studio/a7f809fe1e3743ec8725939e84a519bd"
+    ],
+    "checkedOn": "2026-11-14",
+    "status": "pending",
+    "reason": "HEAD succeeded; full preservation deferred after measured slow transfer (about 46 KB/s). Original working public URL retained."
+  },
+  {
+    "sourceUrl": "https://s3.ap-northeast-1.amazonaws.com/wraptas-prod/protoout/c9697e74-a659-4c88-b537-6afb6815a3de/14d79ab296298e08d9fc491983dae64e.mp4",
+    "sourceBytes": 16828887,
+    "mime": "video/mp4",
+    "pages": [
+      "https://protoout.studio/a7f809fe1e3743ec8725939e84a519bd"
+    ],
+    "checkedOn": "2026-11-14",
+    "status": "pending",
+    "reason": "HEAD succeeded; full preservation deferred after measured slow transfer (about 46 KB/s). Original working public URL retained."
+  },
+  {
+    "sourceUrl": "https://s3.ap-northeast-1.amazonaws.com/wraptas-prod/protoout/3569a1f6-d181-4500-904a-991d66724835/d1f72755bf8cd4171c574ef3fcfce002.mp4",
+    "sourceBytes": 21166818,
+    "mime": "video/mp4",
+    "pages": [
+      "https://protoout.studio/d700e727869d40989b8bb22987eef26f"
+    ],
+    "checkedOn": "2026-11-14",
+    "status": "pending",
+    "reason": "HEAD succeeded; full preservation deferred after measured slow transfer (about 46 KB/s). Original working public URL retained."
+  }
+]

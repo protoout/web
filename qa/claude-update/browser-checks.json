@@ -1,0 +1,38 @@
+[
+  {
+    "label": "home",
+    "width": 1440,
+    "brokenImages": 0,
+    "favicon": "/assets/5cb36a04854b86882fb3.png",
+    "height": 4721,
+    "robots": "noindex, nofollow, noarchive, noimageindex",
+    "scrollWidth": 1440
+  },
+  {
+    "label": "home",
+    "width": 390,
+    "brokenImages": 0,
+    "favicon": "/assets/5cb36a04854b86882fb3.png",
+    "height": 6985,
+    "robots": "noindex, nofollow, noarchive, noimageindex",
+    "scrollWidth": 390
+  },
+  {
+    "label": "article",
+    "width": 1440,
+    "brokenImages": 0,
+    "favicon": "/assets/5cb36a04854b86882fb3.png",
+    "height": 7265,
+    "robots": "noindex, nofollow, noarchive, noimageindex",
+    "scrollWidth": 1440
+  },
+  {
+    "label": "article",
+    "width": 390,
+    "brokenImages": 0,
+    "favicon": "/assets/5cb36a04854b86882fb3.png",
+    "height": 8203,
+    "robots": "noindex, nofollow, noarchive, noimageindex",
+    "scrollWidth": 390
+  }
+]

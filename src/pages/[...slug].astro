@@ -1,7 +1,9 @@
 ---
 import SnapshotPage from '../components/SnapshotPage.astro';
 import pages from '../data/pages.json';
-export function getStaticPaths(){return pages.map(page=>({params:{slug:page.path||undefined},props:{page}}));}
+import publicationPolicy from '../data/publication-policy.json';
+import { assertPublicationPolicy } from '../lib/publication-policy.mjs';
+export function getStaticPaths(){assertPublicationPolicy(pages,publicationPolicy);return pages.map(page=>({params:{slug:page.path||undefined},props:{page}}));}
 const {page}=Astro.props;
 ---
 <SnapshotPage page={page} />

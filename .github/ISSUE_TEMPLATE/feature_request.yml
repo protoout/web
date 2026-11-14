@@ -1,0 +1,22 @@
+name: 機能追加・改善
+description: 移行対応とは別の新機能や機能改善を管理する
+labels: [enhancement]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: 解決したいこと
+      description: 誰がどんな場面で困っているかを記載してください。
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: 機能の案
+      description: 追加したい動作や、期待する使い方を記載してください。
+    validations:
+      required: true
+  - type: textarea
+    id: acceptance
+    attributes:
+      label: 完了条件
