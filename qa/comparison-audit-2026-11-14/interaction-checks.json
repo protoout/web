@@ -1,0 +1,22 @@
+[
+  {
+    "kind": "wraptas",
+    "menuOpened": true,
+    "menuClosed": true
+  },
+  {
+    "kind": "astro",
+    "menuOpened": true,
+    "menuClosed": true
+  },
+  {
+    "kind": "wraptas",
+    "moreBefore": 10,
+    "moreAfter": 69
+  },
+  {
+    "kind": "astro",
+    "moreBefore": 10,
+    "moreAfter": 69
+  }
+]

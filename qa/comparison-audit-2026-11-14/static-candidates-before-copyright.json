@@ -1,0 +1,2374 @@
+{
+  "status": "static candidates, not all browser-verified",
+  "baselineCommit": "87e099d4b0756df36cdfe082c00e08b013f6f0c0",
+  "relatedCandidates": [
+    {
+      "path": "02e7b8e757e64c5690f99b89dd1da6a8",
+      "title": "「プロトアウトMVP」＃2受賞作品紹介🏆",
+      "latestCardsInSavedHtml": 0,
+      "popularCardsInSavedHtml": 0
+    },
+    {
+      "path": "0c2099f21dd74c9794f4010b2badee96",
+      "title": "miibo×notionでWebサイト用のチャットボットを作ってみた",
+      "latestCardsInSavedHtml": 0,
+      "popularCardsInSavedHtml": 0
+    },
+    {
+      "path": "11745b6b5c5c4ee589782a7c274893b8",
+      "title": "プロトアウトMVP受賞作品紹介c",
+      "latestCardsInSavedHtml": 0,
+      "popularCardsInSavedHtml": 0
+    },
+    {
+      "path": "1306077e48878064b868e31b46dbb953",
+      "title": "NHK総合テレビ「時論公論」で取り上げられました",
+      "latestCardsInSavedHtml": 0,
+      "popularCardsInSavedHtml": 0
+    },
+    {
+      "path": "1376077e488780d6a586c10ead94ef05",
+      "title": "Notionのロールアップした値の計算Tips2",
+      "latestCardsInSavedHtml": 0,
+      "popularCardsInSavedHtml": 0
+    },
+    {
+      "path": "13f29f814c84426dae51ff9f1078dbc3",
+      "title": "社内定型業務を効率化！他部署からも自動化依頼がくる秘訣とは？？",
+      "latestCardsInSavedHtml": 0,
+      "popularCardsInSavedHtml": 0
+    },
+    {
+      "path": "1cf6077e488780bd86d2efe5a430fe77",
+      "title": "プロトアウトMVP#3受賞作品の紹介",
+      "latestCardsInSavedHtml": 0,
+      "popularCardsInSavedHtml": 0
+    },
+    {
+      "path": "1d76077e48878068b2e4c83c4af8f9b4",
+      "title": "非エンジニアがMCPを活用し、GoogleMaps×Notionで旅行プランを自動作成に挑戦してみた",
+      "latestCardsInSavedHtml": 0,
+      "popularCardsInSavedHtml": 0
+    },
+    {
+      "path": "2016077e4887806db9b0e29f6b810530",
+      "title": "【miibo×Zapier MCP】非エンジニアの元幼稚園教諭が園全体のタスク進捗管理LINE Botを作ってみた！",
+      "latestCardsInSavedHtml": 0,
+      "popularCardsInSavedHtml": 0
+    },
+    {
+      "path": "21a6077e48878097baeecbfb6c2aba36",
+      "title": "SEOはもう古い？WEBマーケティングはAIOとAEOの時代へ",
+      "latestCardsInSavedHtml": 0,
+      "popularCardsInSavedHtml": 0
+    },
+    {
+      "path": "2296077e488780f081dace683bb63f86",
+      "title": "RAGの精度が上がらない？設定を見直してみよう！",
+      "latestCardsInSavedHtml": 0,
+      "popularCardsInSavedHtml": 0
+    },
+    {
+      "path": "2316077e48878096b771c4204cb1528c",
+      "title": "東京化成工業様で新人研修を実施！ITが苦手だった新入社員が、5日間で「生成AI×市民開発者」へ【研修レポート】",
+      "latestCardsInSavedHtml": 0,
+      "popularCardsInSavedHtml": 0
+    },
+    {
+      "path": "2476077e4887809f857ce56be00a748e",
+      "title": "GA4のレポートを毎日自動で要約！Gemini CLIとGoogle Analytics MCPで作るGitHub Actionsワークフロー",
+      "latestCardsInSavedHtml": 0,
+      "popularCardsInSavedHtml": 0
+    },
+    {
+      "path": "24c6077e48878020a285deffb59f4b87",
+      "title": "非エンジニアがエンジニアと企画を練る為にvibe codingでモックアップ作ってみた。",
+      "latestCardsInSavedHtml": 0,
+      "popularCardsInSavedHtml": 0
+    },
+    {
+      "path": "25a6077e4887809b85c4dfefcd478778",
+      "title": "阪神電気鉄道にてDifyを用いた生成AI研修を実施。社員一人ひとりがAI活用を身近な存在へ。【研修レポート】",
+      "latestCardsInSavedHtml": 0,
+      "popularCardsInSavedHtml": 0
+    },
+    {
+      "path": "2606077e488780289ae1d9e10ae06c2f",
+      "title": "MCPやGPT Image-1も体験！日立製作所81名の新人が挑んだ「IoT×生成AIプロトタイピング研修」【研修レポート】",
+      "latestCardsInSavedHtml": 0,
+      "popularCardsInSavedHtml": 0
+    },
+    {
+      "path": "26f6077e4887809d976bf2d8c4eae4b4",
+      "title": "リニューアル情報御用聞きツール",
+      "latestCardsInSavedHtml": 0,
+      "popularCardsInSavedHtml": 0
+    },
+    {
+      "path": "2716077e4887808cb204d7b8b0f0dec2",
+      "title": " 「AI活用の実践型ワークショップ」で生まれた多様な成果物とAI活用のコミュニティ　福井商工会議所【研修レポート】",
+      "latestCardsInSavedHtml": 0,
+      "popularCardsInSavedHtml": 0
+    },
+    {
+      "path": "27e6077e4887807db1dcc06f0051b15d",
+      "title": "【事例付き】Vibe Codingとは？AI自動コーディングの魅力＆おすすめツールまとめ",
+      "latestCardsInSavedHtml": 0,
+      "popularCardsInSavedHtml": 0
+    },
+    {
+      "path": "2866077e48878055985cec6bacad3b03",
+      "title": "3期目！阪神電気鉄道にてDifyを用いた生成AI研修を実施。社員一人ひとりがAI活用を身近な存在へ。",
+      "latestCardsInSavedHtml": 0,
+      "popularCardsInSavedHtml": 0
+    },
+    {
+      "path": "28ebf56894d8414ebc8df6a424e94621",
+      "title": "Notionのロールアップした値を計算するときTips",
+      "latestCardsInSavedHtml": 0,
+      "popularCardsInSavedHtml": 0
+    },
+    {
+      "path": "2906077e48878076b9c6c24799fdbc3a",
+      "title": "Chrome DevTools MCPでAIクリエイティブコーディングバトル！",
+      "latestCardsInSavedHtml": 0,
+      "popularCardsInSavedHtml": 0
+    },
+    {
+      "path": "29843553124a4da284816d9990cf123b",
+      "title": "想いをカタチに　プロトアウトスタジオ卒業生の作品を紹介してみた",
+      "latestCardsInSavedHtml": 0,
+      "popularCardsInSavedHtml": 0
+    },
+    {
+      "path": "29e6077e488780938c25df73dee385c3",
+      "title": "プロトアウトMVP#4受賞作品の紹介",
+      "latestCardsInSavedHtml": 0,
+      "popularCardsInSavedHtml": 0
+    },
+    {
+      "path": "2a56077e48878060ad31d655bf604907",
+      "title": "自らが価値創出に参加できる人材を育成する　〜シビックテック・デザイン学創成シンポジウム登壇レポート〜",
+      "latestCardsInSavedHtml": 0,
+      "popularCardsInSavedHtml": 0
+    },
+    {
+      "path": "2ac6077e4887805384ded14e230df10a",
+      "title": "【Kusuri Compass】医薬品出荷状況検索ツール",
+      "latestCardsInSavedHtml": 0,
+      "popularCardsInSavedHtml": 0
+    },
+    {
+      "path": "2ad6077e488780e88cd1c6629f74604d",
+      "title": "「社内資格者名簿」作成を効率化するぞ大作戦！",
+      "latestCardsInSavedHtml": 0,
+      "popularCardsInSavedHtml": 0
+    },
+    {
+      "path": "2ba6077e48878087b759dfa327da1e61",
+      "title": "ソロプレナーという選択肢──「個人で戦う」時代の新しいスタイル",
+      "latestCardsInSavedHtml": 0,
+      "popularCardsInSavedHtml": 0
+    },
+    {
+      "path": "2ba6077e488780999d1cd834acc06b7d",
+      "title": "BANI時代に求められるスキルとは｜VUCAを超える不確実性の特徴と対処法",
+      "latestCardsInSavedHtml": 0,
+      "popularCardsInSavedHtml": 0
+    },
+    {
+      "path": "2bb6077e4887809589ccc40f1610b723",
+      "title": "プロトタイピングとは？歴史とアジャイル開発との関係をわかりやすく解説",
+      "latestCardsInSavedHtml": 0,
+      "popularCardsInSavedHtml": 0
+    },
+    {
+      "path": "2c96077e488780ad8851e851c7e2c025",
+      "title": "【研修レポート】システムの機能要望を社員から要望が上がる。阪神電気鉄道会社にてDify×業務改善研修を実施！ -",
+      "latestCardsInSavedHtml": 0,
+      "popularCardsInSavedHtml": 0
+    },
+    {
+      "path": "2d3ffc37f0434ca88bdbd2793f667681",
+      "title": "自動でいい感じに改行を行ってくれる「BudouX」をWraptasに導入してみた！",
+      "latestCardsInSavedHtml": 0,
+      "popularCardsInSavedHtml": 0
+    },
+    {
+      "path": "2d76077e4887809eb52bd0e51ebabb67",
+      "title": "人的資本経営とは？注目される背景と、成果につながる育成設計の考え方",
+      "latestCardsInSavedHtml": 0,
+      "popularCardsInSavedHtml": 0
+    },
+    {
+      "path": "2d76077e488780a3a5acc4c0f0e48dd3",
+      "title": "PoC（Proof of Concept）の意味と役割──「検証したのに進まない」理由を整理する",
+      "latestCardsInSavedHtml": 0,
+      "popularCardsInSavedHtml": 0
+    },
+    {
+      "path": "2d76077e488780ea8599dee8b2afb2a5",
+      "title": "リスキリングの意味をわかりやすく解説！──意味や定義、誤解されやすいポイント整理",
+      "latestCardsInSavedHtml": 0,
+      "popularCardsInSavedHtml": 0
+    },
+    {
+      "path": "2e3f6d2ae4e94b018445fb17620fed73",
+      "title": "デジタル初心者がプロトアウト体験会に参加してみた話",
+      "latestCardsInSavedHtml": 0,
+      "popularCardsInSavedHtml": 0
+    },
+    {
+      "path": "2eb6077e488780f0ae3ee575ea6689bd",
+      "title": "Claudeの新機能「Cowork」は何ができる？導入方法／特徴／リスク／実践例をまとめて紹介",
+      "latestCardsInSavedHtml": 0,
+      "popularCardsInSavedHtml": 0
+    },
+    {
+      "path": "39204f4108554107805ee2bf11d525fa",
+      "title": "WebサイトをSTUDIOからWraptasに移行しました。",
+      "latestCardsInSavedHtml": 0,
+      "popularCardsInSavedHtml": 0
+    },
+    {
+      "path": "3b30d555f4cc404a9f501f0f70f13967",
+      "title": "AIは使える/使えないのその先へ",
+      "latestCardsInSavedHtml": 0,
+      "popularCardsInSavedHtml": 0
+    },
+    {
+      "path": "3fcb0920e06a498799810bd8b2937ce3",
+      "title": "500%効率化！アパレルの手動発注を劇的に変えたプロトタイピング",
+      "latestCardsInSavedHtml": 0,
+      "popularCardsInSavedHtml": 0
+    },
+    {
+      "path": "41c6cc2c9ca543308dfc4b8c114d988f",
+      "title": "目指そう。もっと便利な未来を。LINEBotで「簡易秘書」を作成",
+      "latestCardsInSavedHtml": 0,
+      "popularCardsInSavedHtml": 0
+    },
+    {
+      "path": "4dfbeae8d6ab4ae48dc5bf2604ff492b",
+      "title": "超高精細と噂の3Dプリンター 「Qholia」に挑戦してみた！",
+      "latestCardsInSavedHtml": 0,
+      "popularCardsInSavedHtml": 0
+    },
+    {
+      "path": "4e47cf8d149449b2afb3f51356e7be88",
+      "title": "【Wraptas】Notinoの同期ブロックを活用して、ブログにおすすめの記事を表示させる",
+      "latestCardsInSavedHtml": 0,
+      "popularCardsInSavedHtml": 0
+    },
+    {
+      "path": "64cdd752160e4f4dba0d17770458aac0",
+      "title": "WraptasにWebサイト移行してから一年たって感じたこと",
+      "latestCardsInSavedHtml": 0,
+      "popularCardsInSavedHtml": 0
+    },
+    {
+      "path": "8148562509234167a09ad545374c4e30",
+      "title": "「クラウドファンディング応援大会」プロトアウトLT祭Vol.04が開催！",
+      "latestCardsInSavedHtml": 0,
+      "popularCardsInSavedHtml": 0
+    },
+    {
+      "path": "a6eb9e212ee84e7895df35ad6e0f6c85",
+      "title": "無料で始められる！NotionでWebサイトが作れるサービス8選",
+      "latestCardsInSavedHtml": 0,
+      "popularCardsInSavedHtml": 0
+    },
+    {
+      "path": "a9c89547156148fd8bb396002cbb2a8f",
+      "title": "Teamsを活用！ChatBotで業務改善 ",
+      "latestCardsInSavedHtml": 0,
+      "popularCardsInSavedHtml": 0
+    },
+    {
+      "path": "ae61396186974e54a58e7b3e8133ac0d",
+      "title": "コミュニティ運営やDX化コンサルの法人を設立、プロトアウトスタジオ本科を経て人生が激変した和智さんが、そこで学んだものとは？",
+      "latestCardsInSavedHtml": 0,
+      "popularCardsInSavedHtml": 0
+    },
+    {
+      "path": "bdc8171a96de4e1faebda8a13eb1589f",
+      "title": "非エンジニアがChat GPTの力でWEBサイトを作った話",
+      "latestCardsInSavedHtml": 0,
+      "popularCardsInSavedHtml": 0
+    },
+    {
+      "path": "c91c8dadc304484e87143961d123266f",
+      "title": "話題のノーコードツール「Pipedream」を使って、LINE Botを作ってみた",
+      "latestCardsInSavedHtml": 0,
+      "popularCardsInSavedHtml": 0
+    },
+    {
+      "path": "cb4b3b5bd1cc46309389e199e522f07e",
+      "title": "知っておきたいプロトタイピングのメリット・デメリット！活用事例も解説！",
+      "latestCardsInSavedHtml": 0,
+      "popularCardsInSavedHtml": 0
+    },
+    {
+      "path": "d59739b8ad4e4903a73d31abdcf3b089",
+      "title": "チームの今が見える！営業支援アプリ",
+      "latestCardsInSavedHtml": 0,
+      "popularCardsInSavedHtml": 0
+    },
+    {
+      "path": "d6197eb417934746af6aa8669f8c4aab",
+      "title": "ノーコードアプリ開発とは？ツール選びのポイントやおすすめツールを解説",
+      "latestCardsInSavedHtml": 0,
+      "popularCardsInSavedHtml": 0
+    },
+    {
+      "path": "d79005c2feb74827981d7cc0f44af9f3",
+      "title": "プロトタイピングとは？開発業務に欠かせないプロセスの概要を解説",
+      "latestCardsInSavedHtml": 0,
+      "popularCardsInSavedHtml": 0
+    },
+    {
+      "path": "e1236ef7513744afaec0593703caee6b",
+      "title": "Difyを使ってWebサイト用のチャットボットを作ってみた！",
+      "latestCardsInSavedHtml": 0,
+      "popularCardsInSavedHtml": 0
+    },
+    {
+      "path": "e65069078eeb4c67928ba194255e3c0f",
+      "title": "Difyで作成したチャットボットにLINE通知機能を付けてみる",
+      "latestCardsInSavedHtml": 0,
+      "popularCardsInSavedHtml": 0
+    }
+  ],
+  "missingCommonFooterCandidates": [
+    {
+      "path": "0041ff955ef848fba1f67ac08a3867ac",
+      "title": "情報共有のためのメール一括送信をPADで自動化しました"
+    },
+    {
+      "path": "017bfe6e22c043df930b63c347e8c3f0",
+      "title": "PADとマクロでPDFファイルの共有時間を短縮！"
+    },
+    {
+      "path": "02e7b8e757e64c5690f99b89dd1da6a8",
+      "title": "「プロトアウトMVP」＃2受賞作品紹介🏆"
+    },
+    {
+      "path": "036fd262f8ee441ab51b04ff0040be99",
+      "title": "Power Automate Desktopでルーチンワークの一部を自動化"
+    },
+    {
+      "path": "04b2b643de9f436183386698fe501afb",
+      "title": "私市 瑞希"
+    },
+    {
+      "path": "05c8930bba884fe4b5013cf5c22f2995",
+      "title": "DX時代に必要不可欠なプロトタイピング人材育成プログラムが、第⼀⽣命情報システム株式会社に採用。"
+    },
+    {
+      "path": "08dc050be743412ca82ed8c37f90726f",
+      "title": "昔懐かしい、思い出を巡るためのプロジェクト"
+    },
+    {
+      "path": "0bf6bf7af5fe40f0ae7d72bae86dc2de",
+      "title": "プロトアウトスタジオ【法人クラス】PER1期がスタートしました！"
+    },
+    {
+      "path": "0c2099f21dd74c9794f4010b2badee96",
+      "title": "miibo×notionでWebサイト用のチャットボットを作ってみた"
+    },
+    {
+      "path": "10f829aec2114b52960b9c988d9e891f",
+      "title": "DX時代に必要不可欠なプロトタイピング人材育成プログラムが、第⼀⽣命情報システム株式会社に採用。"
+    },
+    {
+      "path": "10fda1b21ac34491b576128dbd7591aa",
+      "title": "君はひとりじゃないよ。会える場所、沖中塾がここにある。"
+    },
+    {
+      "path": "11272f502449445aa0863e4c9803f06a",
+      "title": "病院の院長が自らDX推進へ。プログラミング未経験の医師がデジタルの世界へ飛び来み、医療現場の改善やハッカソン開催に挑戦した話"
+    },
+    {
+      "path": "11745b6b5c5c4ee589782a7c274893b8",
+      "title": "プロトアウトMVP受賞作品紹介c"
+    },
+    {
+      "path": "119120cf8c4747e19bcaa2212e0f0dde",
+      "title": "毎日のルーティンを自動化したい！\nPower Automate Desktopを使って\n売上実績を自動でダウンロード！"
+    },
+    {
+      "path": "12e6077e48878071b7baf366c91fb98b",
+      "title": "「実践から生まれるリーダーシップと学びを継続するデジタル人材育成」研修の導入で変化した新しい学習体験とは。"
+    },
+    {
+      "path": "1306077e48878064b868e31b46dbb953",
+      "title": "NHK総合テレビ「時論公論」で取り上げられました"
+    },
+    {
+      "path": "1376077e488780d6a586c10ead94ef05",
+      "title": "Notionのロールアップした値の計算Tips2"
+    },
+    {
+      "path": "13f29f814c84426dae51ff9f1078dbc3",
+      "title": "社内定型業務を効率化！他部署からも自動化依頼がくる秘訣とは？？"
+    },
+    {
+      "path": "151d6f53e36b4ed6982aa4df44eb97fd",
+      "title": "ニュースリリース情報をメールで配信"
+    },
+    {
+      "path": "15bb8a4ab8cb48538618cd90c911de1c",
+      "title": "NotionのWiki機能ではバックリンクが使えないかも? Tips"
+    },
+    {
+      "path": "162838b11bc94aae9617c1d27d641042",
+      "title": "「セロハンテープ折り鶴」が原点!?町の工作室オーナーのモノづくりへの思いとは"
+    },
+    {
+      "path": "169a3ac39ff4448d93f9fe5dfff62a82",
+      "title": "史上初？！辞令交付から着任までの２週間チャレンジ！"
+    },
+    {
+      "path": "17d097cfaea24baf81aa5ed34330c12d",
+      "title": "ゴールデンウィークに社会人向けのプログラミングのオンライン授業を実施。完全初心者からでもサポート可能。"
+    },
+    {
+      "path": "1aa6077e4887808293c1c368a45d3feb",
+      "title": "【小さな改善が大きな業務改善に】課題をどこまで細分化しデジタル化できるか、的確な業務改善を進めるDX実装の話"
+    },
+    {
+      "path": "1b66077e4887804293b5fe30e8e1094d",
+      "title": "「本気でやり抜く覚悟のある人募集！」11期募集プレスリリース公開されました。"
+    },
+    {
+      "path": "1b7cbcbc80494ce0be092ecfb67436f2",
+      "title": "仕入れデータの抽出・加工の自動化を実現。小売の現場DX・リテールテックを促進する研修プログラムをイオンリテール株式会社にて実施"
+    },
+    {
+      "path": "1bb6077e4887808aa41dfe70078d7624",
+      "title": "ニュースメディア「VOIX」にてリリースが紹介されました！"
+    },
+    {
+      "path": "1cc6077e4887803fae8ece789e962f64",
+      "title": "阪神電気鉄道・阪急阪神不動産の非IT部門に向けて研修を実施しました！"
+    },
+    {
+      "path": "1cd6077e488780398090e01b441ad2f5",
+      "title": "誰でもできる！Cline で AI エージェントにコーディングを任せながらコマンドラインでかっこよくピザを頼もう！"
+    },
+    {
+      "path": "1cf6077e488780bd86d2efe5a430fe77",
+      "title": "プロトアウトMVP#3受賞作品の紹介"
+    },
+    {
+      "path": "1d76077e48878068b2e4c83c4af8f9b4",
+      "title": "非エンジニアがMCPを活用し、GoogleMaps×Notionで旅行プランを自動作成に挑戦してみた"
+    },
+    {
+      "path": "1e243b439bc34a0dae9d4c2fa0caaa5d",
+      "title": "同じ質問を発生させない仕組み"
+    },
+    {
+      "path": "1ea4f6a646df4e30ac8c834e2b1d86a9",
+      "title": "サービスカウンターが楽しくなるマニュアル検索ChatBotです。"
+    },
+    {
+      "path": "1ea9767807fa41bbacc39ed0fb9a07a8",
+      "title": "気まぐれUiPathの お知らせパトロール自動化 ～ChatGPTのマクロを添えて～"
+    },
+    {
+      "path": "2016077e4887806db9b0e29f6b810530",
+      "title": "【miibo×Zapier MCP】非エンジニアの元幼稚園教諭が園全体のタスク進捗管理LINE Botを作ってみた！"
+    },
+    {
+      "path": "2086077e48878096a3c2fe1f43073419",
+      "title": "VSCの拡張機能に追加された Claude Code を使って、バイブスだけで最高にチルなアプリをバイブコーディングする"
+    },
+    {
+      "path": "2144f9ddc1884eab952666a48e309139",
+      "title": "新　在庫表フォーマットを作る"
+    },
+    {
+      "path": "2165550f6e6642abb831d55126c28d71",
+      "title": "見える化で変える！資料作成のプロセス"
+    },
+    {
+      "path": "21a6077e48878097baeecbfb6c2aba36",
+      "title": "SEOはもう古い？WEBマーケティングはAIOとAEOの時代へ"
+    },
+    {
+      "path": "2256077e488780b28e7be1dba767934c",
+      "title": "現場発！よこね連絡帖で伝わる職場へ"
+    },
+    {
+      "path": "2256077e488780b89cc8fb330066a735",
+      "title": "スマホで楽々♪競争店調査アプリ"
+    },
+    {
+      "path": "2266077e48878069ba86c68f3959476f",
+      "title": "チーフいますか？問題にサヨナラ　デジタルで一問一答"
+    },
+    {
+      "path": "2266077e488780cf95c6e46b6224d120",
+      "title": "デリカの原料管理を効率化せよ"
+    },
+    {
+      "path": "2276077e48878022a84ff385248d3973",
+      "title": "～アプリで追加工事の完了報告と承認が完結!？～"
+    },
+    {
+      "path": "2296077e488780f081dace683bb63f86",
+      "title": "RAGの精度が上がらない？設定を見直してみよう！"
+    },
+    {
+      "path": "2316077e4887805984b6dcf13ffbf743",
+      "title": "【東京化成工業へ実施】試薬業界の新人が業務に即したAI開発。5日間の実践型プログラム"
+    },
+    {
+      "path": "2316077e48878096b771c4204cb1528c",
+      "title": "東京化成工業様で新人研修を実施！ITが苦手だった新入社員が、5日間で「生成AI×市民開発者」へ【研修レポート】"
+    },
+    {
+      "path": "231aed77dacb4bf685cbada805529329",
+      "title": "プロトタイプ開発の見積額が800万円だったものを数千円で"
+    },
+    {
+      "path": "23430ffaeb7d4dccb530275844e17a79",
+      "title": "「Xやインスタすら触ったことない…」そんな小売バイヤーがデジタルの世界へ足を踏み入れたことで解決できた課題とは！？"
+    },
+    {
+      "path": "2476077e4887809f857ce56be00a748e",
+      "title": "GA4のレポートを毎日自動で要約！Gemini CLIとGoogle Analytics MCPで作るGitHub Actionsワークフロー"
+    },
+    {
+      "path": "2486077e488780cd810bfafb989413b0",
+      "title": "個人情報管理のデジタル化〜毎日の押印からの解放〜"
+    },
+    {
+      "path": "2496077e488780779657cdd0c2a135ff",
+      "title": "問い合わせにすぐ答えられない…という悩み、AIチャットボットで解決しよう"
+    },
+    {
+      "path": "2496077e488780fcbf42fd2cfb76b3c5",
+      "title": "現場の引継ぎ「言ったはず…」をゼロにする挑戦"
+    },
+    {
+      "path": "24c6077e4887800cb750cca5d55cd487",
+      "title": "ノーコードツールで制作！タスク管理＆共有アプリ「TASK BOARD」で現場の困りごとを解決！"
+    },
+    {
+      "path": "24c6077e48878020a285deffb59f4b87",
+      "title": "非エンジニアがエンジニアと企画を練る為にvibe codingでモックアップ作ってみた。"
+    },
+    {
+      "path": "24d6077e48878043be62cd25fcf76c77",
+      "title": "現場×データ！AIカメラ「store analyzer」で見つけ出すPOSデータで見えないもの"
+    },
+    {
+      "path": "24d6077e488780c0866ade381d8314cf",
+      "title": "新人向けのマニュアルアプリ「おたすけくん（仮）」をつくりました！"
+    },
+    {
+      "path": "24d6077e488780f5ab18d7983c7737e8",
+      "title": "店舗内人材マッチングアプリを作成しました！"
+    },
+    {
+      "path": "25a6077e4887809b85c4dfefcd478778",
+      "title": "阪神電気鉄道にてDifyを用いた生成AI研修を実施。社員一人ひとりがAI活用を身近な存在へ。【研修レポート】"
+    },
+    {
+      "path": "2606077e488780289ae1d9e10ae06c2f",
+      "title": "MCPやGPT Image-1も体験！日立製作所81名の新人が挑んだ「IoT×生成AIプロトタイピング研修」【研修レポート】"
+    },
+    {
+      "path": "26c6077e48878097999dd1a06dd92a21",
+      "title": "社内チャットツールをアップデートせよ！"
+    },
+    {
+      "path": "26c6077e488780cfa5a4d0bbdbe1143e",
+      "title": "「Dify × Make × PowerAutomate」を活用した社内問い合わせBOT開発の挑戦記"
+    },
+    {
+      "path": "26d6077e488780048c5ad0a8e5b9a12d",
+      "title": "庶務業務効率化プロジェクト"
+    },
+    {
+      "path": "26d6077e4887801d8acfefd09791fd42",
+      "title": "小売りグループのDX最先端に丸腰で派遣されたオバチャンが武装開始する（かもしれない）お話"
+    },
+    {
+      "path": "26d6077e488780a09ee9e7e1df0fe9af",
+      "title": "150分の壁を壊せ！データ分析サポートツールを制作【RPA×Power BI】"
+    },
+    {
+      "path": "26d6077e488780cd9fa0cf0b12fead1f",
+      "title": "ーもう探し回らない！子会社の物件提案内容が一目でわかるー開発案件集約サイト"
+    },
+    {
+      "path": "26d6077e488780eea777f7c3825acbc5",
+      "title": "総務担当者の時間とミスの削減！"
+    },
+    {
+      "path": "26e6077e4887803c91b8e9d1f6814ff0",
+      "title": "「五十にして天命を知る」 年齢を迎えデジタルツールと向き合い業務改善に取り組む"
+    },
+    {
+      "path": "26f6077e48878053851bd48f754523bd",
+      "title": "最適な数量で”勘”の発注からの卒業！"
+    },
+    {
+      "path": "26f6077e48878061b327ec678985b75b",
+      "title": "生成AIを活用した業務フローのプロトタイピング"
+    },
+    {
+      "path": "26f6077e4887809d976bf2d8c4eae4b4",
+      "title": "リニューアル情報御用聞きツール"
+    },
+    {
+      "path": "26f6077e488780d5bdabeba5f0d8bf17",
+      "title": "面倒な発注、ぜんぶ僕に「たのんで！」業務改善アプリ『たのむ君』"
+    },
+    {
+      "path": "2716077e4887808cb204d7b8b0f0dec2",
+      "title": " 「AI活用の実践型ワークショップ」で生まれた多様な成果物とAI活用のコミュニティ　福井商工会議所【研修レポート】"
+    },
+    {
+      "path": "2736077e488780cb888eda3887613695",
+      "title": "レバレジーズ株式会社さまの【フリーランスHub】に掲載されました"
+    },
+    {
+      "path": "27aae7a3bdc44f87a21d089399ce1352",
+      "title": "発注実績自動取得でとにかく早く帰りたい！"
+    },
+    {
+      "path": "27b6077e488780209c8ed4770545eb1f",
+      "title": "日立製作所81名の新人が挑んだ「IoT×生成AIプロトタイピング研修」"
+    },
+    {
+      "path": "27e6077e4887807db1dcc06f0051b15d",
+      "title": "【事例付き】Vibe Codingとは？AI自動コーディングの魅力＆おすすめツールまとめ"
+    },
+    {
+      "path": "2866077e48878055985cec6bacad3b03",
+      "title": "3期目！阪神電気鉄道にてDifyを用いた生成AI研修を実施。社員一人ひとりがAI活用を身近な存在へ。"
+    },
+    {
+      "path": "28d6077e488780daad39d05c268cebda",
+      "title": "住友商事にて実施！実装まで行うバイブコーディング研修"
+    },
+    {
+      "path": "28ebf56894d8414ebc8df6a424e94621",
+      "title": "Notionのロールアップした値を計算するときTips"
+    },
+    {
+      "path": "2906077e48878076b9c6c24799fdbc3a",
+      "title": "Chrome DevTools MCPでAIクリエイティブコーディングバトル！"
+    },
+    {
+      "path": "2962c50cfd814606abde85825ea63955",
+      "title": "人生は短い。プロトアウトコミュニティに入れ！～雪山より愛をこめて～"
+    },
+    {
+      "path": "29843553124a4da284816d9990cf123b",
+      "title": "想いをカタチに　プロトアウトスタジオ卒業生の作品を紹介してみた"
+    },
+    {
+      "path": "29b39f27e7b14b698fc5dacae18bbb1f",
+      "title": "スーパーの店員自らノーコードでアプリ開発と試験運用まで。小売の現場DX・リテールテックを促進するプログラムをマックスバリュ東海株式会社にて採用"
+    },
+    {
+      "path": "29e6077e488780938c25df73dee385c3",
+      "title": "プロトアウトMVP#4受賞作品の紹介"
+    },
+    {
+      "path": "2a55e6731c5c4f72bd804993621d631e",
+      "title": "astro-notion-blogでGoogle Analyticsを設定する方法"
+    },
+    {
+      "path": "2a56077e48878060ad31d655bf604907",
+      "title": "自らが価値創出に参加できる人材を育成する　〜シビックテック・デザイン学創成シンポジウム登壇レポート〜"
+    },
+    {
+      "path": "2aa6077e48878088bb32ee605f51f73b",
+      "title": "わたし×AI＝VBAで効率化 ～720分が1分に！？～"
+    },
+    {
+      "path": "2ab6077e4887806ba3c2c524febfd654",
+      "title": "営業を助けるAI開発"
+    },
+    {
+      "path": "2ac6077e4887802a97aaec8a62f5e705",
+      "title": "“おにぎりサイズ”から始めるRPA改革"
+    },
+    {
+      "path": "2ac6077e4887805384ded14e230df10a",
+      "title": "【Kusuri Compass】医薬品出荷状況検索ツール"
+    },
+    {
+      "path": "2ac6077e488780acbeccece2100a1a68",
+      "title": "手書き！押印！昭和で止まった残業報告書の承認を令和仕様にアップデート"
+    },
+    {
+      "path": "2ad6077e48878067a14efe2fd3f595fc",
+      "title": "実績データ作成を簡単に"
+    },
+    {
+      "path": "2ad6077e488780e88cd1c6629f74604d",
+      "title": "「社内資格者名簿」作成を効率化するぞ大作戦！"
+    },
+    {
+      "path": "2ba6077e48878087b759dfa327da1e61",
+      "title": "ソロプレナーという選択肢──「個人で戦う」時代の新しいスタイル"
+    },
+    {
+      "path": "2ba6077e488780999d1cd834acc06b7d",
+      "title": "BANI時代に求められるスキルとは｜VUCAを超える不確実性の特徴と対処法"
+    },
+    {
+      "path": "2bb6077e4887809589ccc40f1610b723",
+      "title": "プロトタイピングとは？歴史とアジャイル開発との関係をわかりやすく解説"
+    },
+    {
+      "path": "2c953dfec03c44df947056f20c3130c6",
+      "title": "介護業界からデジタルの世界へ。「できない」を越えて技術を身に着けたからこそ気づいた、業務改善に本当に大切なものとは？"
+    },
+    {
+      "path": "2c96077e488780ad8851e851c7e2c025",
+      "title": "【研修レポート】システムの機能要望を社員から要望が上がる。阪神電気鉄道会社にてDify×業務改善研修を実施！ -"
+    },
+    {
+      "path": "2cb6077e488780b3987eecd2d4c614ae",
+      "title": "週間報告書をPADで自動作成！"
+    },
+    {
+      "path": "2cc6077e488780159263f58698f34eb9",
+      "title": "業務連絡引継ぎアプリ"
+    },
+    {
+      "path": "2cc6077e488780beb13bcc49fbc2f252",
+      "title": "【3期目実施】阪神電気鉄道にてDifyを用いた生成AI研修を実施。社員一人ひとりがAI活用を身近な存在へ。"
+    },
+    {
+      "path": "2cd6077e488780eeab80c1460a067fef",
+      "title": "お客様対応シートアプリによる業務改善"
+    },
+    {
+      "path": "2d3ffc37f0434ca88bdbd2793f667681",
+      "title": "自動でいい感じに改行を行ってくれる「BudouX」をWraptasに導入してみた！"
+    },
+    {
+      "path": "2d76077e4887809eb52bd0e51ebabb67",
+      "title": "人的資本経営とは？注目される背景と、成果につながる育成設計の考え方"
+    },
+    {
+      "path": "2d76077e488780a3a5acc4c0f0e48dd3",
+      "title": "PoC（Proof of Concept）の意味と役割──「検証したのに進まない」理由を整理する"
+    },
+    {
+      "path": "2d76077e488780ea8599dee8b2afb2a5",
+      "title": "リスキリングの意味をわかりやすく解説！──意味や定義、誤解されやすいポイント整理"
+    },
+    {
+      "path": "2df15f659f1d4dc68a45138dda5f185d",
+      "title": "クラウドファンディングのオーナーを目指すことで、技術力・企画力・発信力を鍛えるDX人材育成プログラム。サントリーシステムテクノロジーの社員研修に導入。"
+    },
+    {
+      "path": "2df67d3c5fd84650b2cf3fb2ed978c1d",
+      "title": "SlackからTeamsへ情報を即時に連携する "
+    },
+    {
+      "path": "2e3f6d2ae4e94b018445fb17620fed73",
+      "title": "デジタル初心者がプロトアウト体験会に参加してみた話"
+    },
+    {
+      "path": "2eb6077e488780f0ae3ee575ea6689bd",
+      "title": "Claudeの新機能「Cowork」は何ができる？導入方法／特徴／リスク／実践例をまとめて紹介"
+    },
+    {
+      "path": "2fa00df468bb4de98e41c98c6ee13eff",
+      "title": "クラフト・アート…領域や手段を超えてシームレスにものづくりできる場所「工作室もくもくはりねずみ」をつくった話"
+    },
+    {
+      "path": "339a76ac54724c038af6b0513dbe69e4",
+      "title": "miibo AIプロトタイピング短期講座、2期生募集開始！"
+    },
+    {
+      "path": "36ff3def4f834e80835cbb88b2af99c9",
+      "title": "「労働者を消費させない」労働環境への熱い想いで、最新ツールも使いこなし業務改善ツールを作り続けている話"
+    },
+    {
+      "path": "3706d0916a064db483ddb69e9dc81580",
+      "title": "値下げ・廃棄指標数値の管理自動化"
+    },
+    {
+      "path": "3774755341864f3394356905bd78558c",
+      "title": "JTCのデジタルリテラシー向上のためChatGPTの社内勉強会をしてみた！"
+    },
+    {
+      "path": "38c40028d99e446e95d4e1ea09a11ef3",
+      "title": "拾得物管理簿プロジェクト"
+    },
+    {
+      "path": "39204f4108554107805ee2bf11d525fa",
+      "title": "WebサイトをSTUDIOからWraptasに移行しました。"
+    },
+    {
+      "path": "3b30d555f4cc404a9f501f0f70f13967",
+      "title": "AIは使える/使えないのその先へ"
+    },
+    {
+      "path": "3d16077e48878063b64aca3f0e2d9ede",
+      "title": "FUN TO SHOPPING ー 歩いて買い物ができるバーチャルネットスーパー"
+    },
+    {
+      "path": "3db5dbecb4b143bba6901af495fb45fb",
+      "title": "「デジタル技術は使えるだけではだめ」業務改善を進めていく中で感じた、周囲を巻き込むために大切なこととは？"
+    },
+    {
+      "path": "3e5f59d2f9744657abe893516530d952",
+      "title": "Excel VBAに初挑戦！～定型作業を効率的に～"
+    },
+    {
+      "path": "3fcb0920e06a498799810bd8b2937ce3",
+      "title": "500%効率化！アパレルの手動発注を劇的に変えたプロトタイピング"
+    },
+    {
+      "path": "41c6cc2c9ca543308dfc4b8c114d988f",
+      "title": "目指そう。もっと便利な未来を。LINEBotで「簡易秘書」を作成"
+    },
+    {
+      "path": "4328ca3e22364389914d7fe61e88300a",
+      "title": "管理簿アプリで業務効率UP！"
+    },
+    {
+      "path": "43d4f52ee1c744d3a22c3bf7857bc4b1",
+      "title": "店舗従業員業務支援AI  「A子」"
+    },
+    {
+      "path": "4429c0573aee43859dabee213dd5cb6a",
+      "title": "デジタル未経験から”DXといえば畠さんへ”現場に寄り添い課題を解決し、DX文化醸成へ取り組む話"
+    },
+    {
+      "path": "462bdf6168d34114adb8adb60c37adb1",
+      "title": "LINE Bot活用による、催事業者さんとの紙のやり取りゼロ化への挑戦"
+    },
+    {
+      "path": "4723d98dbc814c70ac31119f757a101f",
+      "title": "プロトアウトスタジオ【法人クラス】PEO5期・PEH2期がスタートしました！"
+    },
+    {
+      "path": "4866a6d41f994580badaff4d008e0718",
+      "title": "案件進捗管理アプリ ～タスクの一元化で情報収集をラクに！～"
+    },
+    {
+      "path": "49e49f83b31e4f09b757362c3604c84f",
+      "title": "まずはデータをキレイに管理しよう"
+    },
+    {
+      "path": "4a9316a2e7fb4a31a3bbaaa2a105d5e4",
+      "title": "この紙運用は本当に必要？アナログ現場に危機感を抱き、契約書類のデジタル化に挑戦した話"
+    },
+    {
+      "path": "4d6b1e5a1a054040a73283ac76f71498",
+      "title": "PowerAutomateDesktop 集計業務を自動化して 作業時間を89％削減"
+    },
+    {
+      "path": "4dfbeae8d6ab4ae48dc5bf2604ff492b",
+      "title": "超高精細と噂の3Dプリンター 「Qholia」に挑戦してみた！"
+    },
+    {
+      "path": "4e47cf8d149449b2afb3f51356e7be88",
+      "title": "【Wraptas】Notinoの同期ブロックを活用して、ブログにおすすめの記事を表示させる"
+    },
+    {
+      "path": "511a1b2b160c46c496b206580f536dfd",
+      "title": "「これ、自分でつくれるかも！」研修で身につけた”自分で作る力”で、見積もり100万円のツールを自作した話。"
+    },
+    {
+      "path": "55558431b15f4b4f8f281a3e055b6c23",
+      "title": "めんどくさがりの私が、楽しみながら取り組む「業務改善」「子育てものづくり」の話"
+    },
+    {
+      "path": "57c52f1a649d49f29c749a3b359e7a4b",
+      "title": "「作って」ではなく「自分でつくります」を増やしたい！そんな世界を実現するために挑戦した話。"
+    },
+    {
+      "path": "58a64b6a0bb5436685f396a6e926b64f",
+      "title": "プログラミング初心者から「自走できる状態」になるための秘訣とは？"
+    },
+    {
+      "path": "5a59e308eabb4ab5bfcbbdc249878cb2",
+      "title": "カラオケ嫌いによる、カラオケ嫌いのための、カラオケ克服プロジェクト"
+    },
+    {
+      "path": "5a73eb8683ca4e2b907a66578a3e6cc1",
+      "title": "DX人材育成担当者がファーストペンギンとしてデジタルの世界に飛び込み、プロトタイプの開発・発信を通じて、組織文化を変革した話"
+    },
+    {
+      "path": "5bfd26dbe0894005832e6be1685fe60c",
+      "title": "プロトアウト8期がスタートしました。"
+    },
+    {
+      "path": "5d46d8058f69499a82ca855711387970",
+      "title": "毎日のルーチン業務を自動化"
+    },
+    {
+      "path": "5db49f86a27e4c039d11e38dec47e47a",
+      "title": "防災チェックアプリ作ってみた"
+    },
+    {
+      "path": "5fda5a8a20de4539b693dc4a1e56ee04",
+      "title": "法務の課題であるナレッジ共有について先例集で解決を試みた件"
+    },
+    {
+      "path": "6174afa479c74e8eb6b33e4e0442e6b4",
+      "title": "様々なジャンルのプロトアウト活動が集結！プロトアウト LT祭が開催！"
+    },
+    {
+      "path": "6217511903304959a06a6474cefe063e",
+      "title": "人生にスパイスを！現役エンジニアが、生涯かけて作りたいと思える「シーシャアプリ」に出会った話"
+    },
+    {
+      "path": "6351668384b342a5a887a01a2ccb9b53",
+      "title": "Power Automate Desktopでルーチンワークの一部を自動化"
+    },
+    {
+      "path": "643a22e70ead437682a1e5520e621e19",
+      "title": "クラファン623%達成！目指す世界の火種を、発見し燃やし続ける秘訣とは？"
+    },
+    {
+      "path": "64cdd752160e4f4dba0d17770458aac0",
+      "title": "WraptasにWebサイト移行してから一年たって感じたこと"
+    },
+    {
+      "path": "6679792239c84b628628acaf192d9aa0",
+      "title": "申請承認フロー自動化へ"
+    },
+    {
+      "path": "693be4c8ffd842c99fef89ae23a56da8",
+      "title": "手間いらずのExcel！入力作業の新常識　Power Automate for desktop  "
+    },
+    {
+      "path": "69bcc7ecc4e241ce84004e720c136b17",
+      "title": "時短毎月300時間！年間コスト360万円削減できる！？店舗の備品貸出管理簿をデジタル化"
+    },
+    {
+      "path": "6a90f3318718474a842311b0838799ed",
+      "title": "PowerAutomateとVBAで作業工数入力に関わる時間の削減"
+    },
+    {
+      "path": "6b863e9c6450490ab1d44310aaba3e71",
+      "title": "ノーコードとローコードの違いは？特徴や開発ツールについて解説"
+    },
+    {
+      "path": "6ed50d959f9843b49b911f01427c0078",
+      "title": "現役の医師がプロトタイピングスキルを学んだことで見えてきた、医療業界のテクノロジーだけでは超えられない壁とは？"
+    },
+    {
+      "path": "6fe15d468f3e4c5aad70ead1814ea428",
+      "title": "Wraptasで追加CSSを書くときのポイント"
+    },
+    {
+      "path": "704a80bcf1c34091a0d4edadb8021686",
+      "title": "店舗運営がスムーズになるかもしれない掲示板アプリ作ってみた！"
+    },
+    {
+      "path": "7094f5994cd6458a99f4c6b683945ef1",
+      "title": "公図作成をデジタル化して手作業から解放"
+    },
+    {
+      "path": "7106117c16fb4047a00e384fd6b7ff51",
+      "title": "業務連絡をGlideでデジタル化！"
+    },
+    {
+      "path": "71ad29b2ffa5444f9cf7602368b6763c",
+      "title": "事務的な作業をスマホ1つで楽ちんに！"
+    },
+    {
+      "path": "72e691790d704919a816455b7994ea1a",
+      "title": "簡単に業務担当部署が確認できるアプリを広めたい"
+    },
+    {
+      "path": "76aa7bcf1e3e4757868c4ed2db73a96b",
+      "title": "電子注文書で発注処理を完全ペーパーレスに"
+    },
+    {
+      "path": "78118473ae044246a8d98f016db84a70",
+      "title": "プロトアウトスタジオ【法人クラス】PMV3期がスタートしました！"
+    },
+    {
+      "path": "79b886060d6f4471b65952f75d787b41",
+      "title": "スーパー小学生の登場！？年代も内容も幅広かったIoTLT vol99 に初参加してきました！"
+    },
+    {
+      "path": "7c04e086320f4444b29eef659c1da4ed",
+      "title": "動画マニュアル作成編集と視聴アプリ作成"
+    },
+    {
+      "path": "7c2b2c4745fe49ccbb4bf7f8cf68fde2",
+      "title": "Glideを使用した業務改善"
+    },
+    {
+      "path": "7e09c3be599242a2a0574213a7f44d6c",
+      "title": "LINEで子供の薬を簡単検索！サポート型LINEBot「メディエイド」"
+    },
+    {
+      "path": "8020f9bb9828409787be5df877807d8a",
+      "title": "承認をデジタルで　紙の申請書をなくす"
+    },
+    {
+      "path": "8148562509234167a09ad545374c4e30",
+      "title": "「クラウドファンディング応援大会」プロトアウトLT祭Vol.04が開催！"
+    },
+    {
+      "path": "83593c4c09d042239f27d50fbf8778f6",
+      "title": "「エンジニアの言葉が分からん…」そんな私が「心底作りたいもの」と向き合った本気の4か月間 #ものづくり"
+    },
+    {
+      "path": "843a68f440234c6abd59d4e43066a16a",
+      "title": "話題のノーコードツール「Pipedream」を使って、LINE Botを作ってみた"
+    },
+    {
+      "path": "857f71bf1d024babaf0690e3304489d1",
+      "title": "停電時の作業をデジタルで改善"
+    },
+    {
+      "path": "85a9219d42fb4838a649ebb36f6f748d",
+      "title": "自動化でみんなの時間をクリエイト"
+    },
+    {
+      "path": "85ba905753214d389fb2e3c8e17bf9a6",
+      "title": "【一人一投稿】人生で一番好きな店だけ集まったグルメアプリ「推しメシ」"
+    },
+    {
+      "path": "86820968205b4a9b972c0553d91e1477",
+      "title": "店舗と業者の品切れ報告ツール「じものコンタクト」"
+    },
+    {
+      "path": "89d04dd2648747a2b51f6f7b2afbaf0f",
+      "title": "画像判別ツール　見ワケルン"
+    },
+    {
+      "path": "8a996fb5005c41648158451137ff28e6",
+      "title": "Google FormsをWEBサイトに埋め込んだら二重スクロールになってしまう問題を解決した！Tips"
+    },
+    {
+      "path": "8d733406c5d94486897b2eb9c7bc764a",
+      "title": "Q&Aアプリで問い合わせ対応から解放"
+    },
+    {
+      "path": "8d8829a716f44fd29a148d8acc72b2f7",
+      "title": "コピペ不可の社内ツール「電子申請」をPADでコピペして集計業務を楽にする。"
+    },
+    {
+      "path": "8df0ce990e8742008b4f8773e9f65408",
+      "title": "たまに使うNotionの関数メモ"
+    },
+    {
+      "path": "8f768a44c8914d36b8d2d57b8dbc4ae2",
+      "title": "発注支援ツールの作成"
+    },
+    {
+      "path": "8fda58bfc2eb4e19a2759c16b2663065",
+      "title": "お客さまへおすすめワインを教えるアプリ"
+    },
+    {
+      "path": "90f0158a70854fa9b3206c8059369f2a",
+      "title": "データの自動化★決裁申請ツールをつくっちゃおう！"
+    },
+    {
+      "path": "91378b440f6c446ab67fe16c9f20c811",
+      "title": "社内Botで業務改善　おすすめ三選"
+    },
+    {
+      "path": "9756cf92b37d4a829d3a782112ccf7b0",
+      "title": "Power Automate Desktopで仕入れ進捗管理の自動化"
+    },
+    {
+      "path": "98170ea22cb3486c88ddcef1fae1553d",
+      "title": "めんどくさがりの私が、楽しみながら取り組む「業務改善」「子育てものづくり」の話"
+    },
+    {
+      "path": "9d8a7dde15ec41cbbceebc6df5558080",
+      "title": "会話のきっかけを作ってくれる『よよぼっと』"
+    },
+    {
+      "path": "9e66fb0479194bada426cbed83320e2f",
+      "title": "リアルタイムでキモチを伝える！　夫婦専用承認システム『Kimochi-in』"
+    },
+    {
+      "path": "a056fffc593347b8aa3f1f2d27ec9fd2",
+      "title": "手順書アプリを内製したい！"
+    },
+    {
+      "path": "a5041a33fcc0473799afd12b30f3a199",
+      "title": "待ち合わせが繋ぐふたりの初恋時間「ときメーター」"
+    },
+    {
+      "path": "a5540b7cee5b447ab6695512963e729b",
+      "title": "アイデアを5秒以内に残せるアプリ「Atoms」"
+    },
+    {
+      "path": "a558a6e6fc5d4eaba19c9ac56870aa82",
+      "title": "わかりやすいデータ管理のために！人事データ一括管理アプリ作ってみた"
+    },
+    {
+      "path": "a6eb9e212ee84e7895df35ad6e0f6c85",
+      "title": "無料で始められる！NotionでWebサイトが作れるサービス8選"
+    },
+    {
+      "path": "a7f809fe1e3743ec8725939e84a519bd",
+      "title": "売場情報を手元で確認"
+    },
+    {
+      "path": "a88fab872c5542018fe7d487c14e18c3",
+      "title": "リアル育成ゲーム『バンちゃん』で雑談苦手克服するプロジェクト！"
+    },
+    {
+      "path": "a9c89547156148fd8bb396002cbb2a8f",
+      "title": "Teamsを活用！ChatBotで業務改善 "
+    },
+    {
+      "path": "ae61396186974e54a58e7b3e8133ac0d",
+      "title": "コミュニティ運営やDX化コンサルの法人を設立、プロトアウトスタジオ本科を経て人生が激変した和智さんが、そこで学んだものとは？"
+    },
+    {
+      "path": "aeec4e3ea329455c91ed3c8bfdaa7dff",
+      "title": "Glideでコンクール審査票をアプリにしたら、時短＆フィードバックが楽々に！"
+    },
+    {
+      "path": "b0a718e0fe3f42dd83bd425cefe06788",
+      "title": "クレジットカード会員新規獲得スタッフの業務内容分析の自動化による業務効率改善"
+    },
+    {
+      "path": "b106afbca11f40658bd1891aa854ba07",
+      "title": "報告書管理をスマート化（研修2.0を目指して）"
+    },
+    {
+      "path": "b1d1626ed326432b994b6b72b0df6e78",
+      "title": "ARで野球に参加！守備と攻守交替を観戦しながら徹底的に追体験する「10人目の仲間」"
+    },
+    {
+      "path": "b2665cf3985d4ccd840dcbce66adeeda",
+      "title": "ECの商品登録間違いは、RPA化して防ぐ方法が見つかっちゃった！"
+    },
+    {
+      "path": "b3f9f37b3b744c06a1d73614ab5a2c88",
+      "title": "林 千秋"
+    },
+    {
+      "path": "b836f121c9b94a919813c7ac588136fb",
+      "title": "品質管理を簡単にする賞味期限管理アプリ！！　～管理をスキャンで簡易に出来る～　SCANLEE(スキャンリー)"
+    },
+    {
+      "path": "b8b761a700544451be5cdd8b8d0afd35",
+      "title": "採用業務の自動化パッケージ"
+    },
+    {
+      "path": "ba461a99a7614b22b9cebc0445d60230",
+      "title": "アナログ作業からの脱却"
+    },
+    {
+      "path": "bb49d19825f64e299974ed4d450b2123",
+      "title": "申請業務の簡略化～PowerAutomateで三方よしの会社をめざす～"
+    },
+    {
+      "path": "bc28774e10fb4f7b8ccff2ccc46330a1",
+      "title": "のびすけ"
+    },
+    {
+      "path": "bdc8171a96de4e1faebda8a13eb1589f",
+      "title": "非エンジニアがChat GPTの力でWEBサイトを作った話"
+    },
+    {
+      "path": "c11f612e506346f29b5e86e195d0f50a",
+      "title": "食品衛生のデータ収集の自動化"
+    },
+    {
+      "path": "c216c9b4c66e462480a80f1baeb86280",
+      "title": "生成AI・ChatGPTを活用してExcelマクロを作成〜請求明細作成ツール〜"
+    },
+    {
+      "path": "c3f2a96813cf48fc98c7e6b1402b9c40",
+      "title": "シフト作成の自動化を目指して。"
+    },
+    {
+      "path": "c447856979e34a0fae1df8cd11c862e2",
+      "title": "うこ"
+    },
+    {
+      "path": "c5b9ef3c413c42ea8f8d07830c7bbd39",
+      "title": "店頭販促物取り付けフォローアプリを作成してみた！"
+    },
+    {
+      "path": "c6185be935e645aebae0d203ccc3b400",
+      "title": "新規事業開発を「新規」に取り組む際の2つの「無い」を解消する、DX時代のイントレプレナー育成プログラムの提供を開始"
+    },
+    {
+      "path": "c91c8dadc304484e87143961d123266f",
+      "title": "話題のノーコードツール「Pipedream」を使って、LINE Botを作ってみた"
+    },
+    {
+      "path": "c9bc6642f4534f0bbc92b938e650dbd3",
+      "title": "Uber EATS業務を店舗の武器に"
+    },
+    {
+      "path": "ca6b468c56e747aaa3734375f4e44036",
+      "title": "とにかく紙を無くしたい！メールのやり取りすら断られる世界で打ち出した改善策とは！？"
+    },
+    {
+      "path": "case_studies",
+      "title": "企業インタビューページ"
+    },
+    {
+      "path": "cb4b3b5bd1cc46309389e199e522f07e",
+      "title": "知っておきたいプロトタイピングのメリット・デメリット！活用事例も解説！"
+    },
+    {
+      "path": "community",
+      "title": "つくる・発信をつづけるプロトアウトスタジオのアルムナイコミュニティに参加しよう！"
+    },
+    {
+      "path": "d0dc7610e417478ab06af237e32f0ddd",
+      "title": "私の職場のAさんを救いたい！PADで集計作業を自動化"
+    },
+    {
+      "path": "d149a5fde4f24a68abb46d1e1f698276",
+      "title": "社内LinuxサーバでPythonを使用し、温度計点検を全自動化"
+    },
+    {
+      "path": "d2f79bc03db14881880045d4aa7e1c1d",
+      "title": "病院勤務の看護師から、WEBサイトも作れるものづくりナースへ。その転機とは！？"
+    },
+    {
+      "path": "d59739b8ad4e4903a73d31abdcf3b089",
+      "title": "チームの今が見える！営業支援アプリ"
+    },
+    {
+      "path": "d6197eb417934746af6aa8669f8c4aab",
+      "title": "ノーコードアプリ開発とは？ツール選びのポイントやおすすめツールを解説"
+    },
+    {
+      "path": "d700e727869d40989b8bb22987eef26f",
+      "title": " "
+    },
+    {
+      "path": "d79005c2feb74827981d7cc0f44af9f3",
+      "title": "プロトタイピングとは？開発業務に欠かせないプロセスの概要を解説"
+    },
+    {
+      "path": "e1236ef7513744afaec0593703caee6b",
+      "title": "Difyを使ってWebサイト用のチャットボットを作ってみた！"
+    },
+    {
+      "path": "e1e4a6b7e00c4f76a543b5f11c77dbaf",
+      "title": "魔の“反復作業”から抜け出せ！！【Power Automate Desktop】"
+    },
+    {
+      "path": "e1e81fba5f76494a914f97b1af31481d",
+      "title": "伴野 智樹"
+    },
+    {
+      "path": "e23fd8b38cc742dea8822121e91d562a",
+      "title": "「令和に紙だらけ？」プログラミング未経験の小売業法務担当が、デジタル業務効率化を断行した話！"
+    },
+    {
+      "path": "e4ae38a18fd249859432714da4ae916f",
+      "title": "レジ業務をスマートに！レジ運用アプリで効率化"
+    },
+    {
+      "path": "e4ec5719b4f54574b1fceafe1661ed5e",
+      "title": "毎月の業務を完全自動化！"
+    },
+    {
+      "path": "e5958eed437548f2b98be96d9fa31f71",
+      "title": "Glideでルーチンワークをデジタル化"
+    },
+    {
+      "path": "e65069078eeb4c67928ba194255e3c0f",
+      "title": "Difyで作成したチャットボットにLINE通知機能を付けてみる"
+    },
+    {
+      "path": "ecf34fc1f4a44aac99b59a3eabbee4ed",
+      "title": "5分でわかる卒業生インタビューまとめ。アナログ業界からデジタルへ挑戦！"
+    },
+    {
+      "path": "eventcalendar",
+      "title": "イベントカレンダー"
+    },
+    {
+      "path": "f029129756484036949f4cf3bea38be9",
+      "title": "振替起案を効率化！　　「振替業務自動化 ツール」の作成"
+    },
+    {
+      "path": "f5f5306dd1e04a368ee8ef12ea8f32dc",
+      "title": "「つくる」がもっと好きになるコンテスト、ヒーローズリーグの作品を紹介してみた"
+    },
+    {
+      "path": "f603b33189094449b0056186914b25cf",
+      "title": "現役エンジニアが受託マインドからプロダクトオーナーへ。エンジニアこそプロトアウトを学ぶべき理由とは？"
+    },
+    {
+      "path": "faabc1111a564a7ab1d173e65d977671",
+      "title": "AppSheetで作成！　画像報告アプリ"
+    },
+    {
+      "path": "fd432e0cfd524f049aec20db169474ff",
+      "title": "業務自動化で利益貢献へ！大手小売業の社員が、悪戦苦闘しながら現場の課題解決能力向上に挑戦している話"
+    },
+    {
+      "path": "ffa695ec67f9427a94197740c1b74a44",
+      "title": "それって自分で作れるかも～企画・開発・発信の輪を広げる為には～"
+    },
+    {
+      "path": "ffd58071e70742f796684d5c7369a2ef",
+      "title": "社内コミュニティ立ち上げや生成AIで課題解決など、小売業界で挑戦を続けるさわやまさんが語る、デジタル文化醸成の要因とは！？"
+    },
+    {
+      "path": "miibo",
+      "title": "miibo AIプロトタイピング講座 "
+    },
+    {
+      "path": "mvp",
+      "title": "つくりつづけ、仲間のものづくりを応援する人を表彰する「プロトアウトMVP」"
+    },
+    {
+      "path": "mvp1",
+      "title": "つくりつづけ、仲間のものづくりを応援する人を表彰する「プロトアウトMVP」"
+    },
+    {
+      "path": "mvp2",
+      "title": "つくりつづけ、仲間のものづくりを応援する人を表彰する「プロトアウトMVP」#2"
+    },
+    {
+      "path": "mvp3",
+      "title": "つくりつづけ、仲間のものづくりを応援する人を表彰する「プロトアウトMVP」#3"
+    },
+    {
+      "path": "mvp4",
+      "title": "つくりつづけ、仲間のものづくりを応援する人を表彰する「プロトアウトMVP」#4"
+    },
+    {
+      "path": "mvp5",
+      "title": "「つくる」を楽しみ続ける人を表彰する「プロトアウトMVP」#5 "
+    }
+  ],
+  "emptyBookmarkImageCandidates": [
+    {
+      "path": "0041ff955ef848fba1f67ac08a3867ac",
+      "title": "情報共有のためのメール一括送信をPADで自動化しました"
+    },
+    {
+      "path": "017bfe6e22c043df930b63c347e8c3f0",
+      "title": "PADとマクロでPDFファイルの共有時間を短縮！"
+    },
+    {
+      "path": "02e7b8e757e64c5690f99b89dd1da6a8",
+      "title": "「プロトアウトMVP」＃2受賞作品紹介🏆"
+    },
+    {
+      "path": "036fd262f8ee441ab51b04ff0040be99",
+      "title": "Power Automate Desktopでルーチンワークの一部を自動化"
+    },
+    {
+      "path": "04b2b643de9f436183386698fe501afb",
+      "title": "私市 瑞希"
+    },
+    {
+      "path": "05c8930bba884fe4b5013cf5c22f2995",
+      "title": "DX時代に必要不可欠なプロトタイピング人材育成プログラムが、第⼀⽣命情報システム株式会社に採用。"
+    },
+    {
+      "path": "08dc050be743412ca82ed8c37f90726f",
+      "title": "昔懐かしい、思い出を巡るためのプロジェクト"
+    },
+    {
+      "path": "0bf6bf7af5fe40f0ae7d72bae86dc2de",
+      "title": "プロトアウトスタジオ【法人クラス】PER1期がスタートしました！"
+    },
+    {
+      "path": "0c2099f21dd74c9794f4010b2badee96",
+      "title": "miibo×notionでWebサイト用のチャットボットを作ってみた"
+    },
+    {
+      "path": "10f829aec2114b52960b9c988d9e891f",
+      "title": "DX時代に必要不可欠なプロトタイピング人材育成プログラムが、第⼀⽣命情報システム株式会社に採用。"
+    },
+    {
+      "path": "10fda1b21ac34491b576128dbd7591aa",
+      "title": "君はひとりじゃないよ。会える場所、沖中塾がここにある。"
+    },
+    {
+      "path": "11272f502449445aa0863e4c9803f06a",
+      "title": "病院の院長が自らDX推進へ。プログラミング未経験の医師がデジタルの世界へ飛び来み、医療現場の改善やハッカソン開催に挑戦した話"
+    },
+    {
+      "path": "11745b6b5c5c4ee589782a7c274893b8",
+      "title": "プロトアウトMVP受賞作品紹介c"
+    },
+    {
+      "path": "119120cf8c4747e19bcaa2212e0f0dde",
+      "title": "毎日のルーティンを自動化したい！\nPower Automate Desktopを使って\n売上実績を自動でダウンロード！"
+    },
+    {
+      "path": "12e6077e48878071b7baf366c91fb98b",
+      "title": "「実践から生まれるリーダーシップと学びを継続するデジタル人材育成」研修の導入で変化した新しい学習体験とは。"
+    },
+    {
+      "path": "1306077e48878064b868e31b46dbb953",
+      "title": "NHK総合テレビ「時論公論」で取り上げられました"
+    },
+    {
+      "path": "1376077e488780d6a586c10ead94ef05",
+      "title": "Notionのロールアップした値の計算Tips2"
+    },
+    {
+      "path": "13f29f814c84426dae51ff9f1078dbc3",
+      "title": "社内定型業務を効率化！他部署からも自動化依頼がくる秘訣とは？？"
+    },
+    {
+      "path": "151d6f53e36b4ed6982aa4df44eb97fd",
+      "title": "ニュースリリース情報をメールで配信"
+    },
+    {
+      "path": "15bb8a4ab8cb48538618cd90c911de1c",
+      "title": "NotionのWiki機能ではバックリンクが使えないかも? Tips"
+    },
+    {
+      "path": "162838b11bc94aae9617c1d27d641042",
+      "title": "「セロハンテープ折り鶴」が原点!?町の工作室オーナーのモノづくりへの思いとは"
+    },
+    {
+      "path": "169a3ac39ff4448d93f9fe5dfff62a82",
+      "title": "史上初？！辞令交付から着任までの２週間チャレンジ！"
+    },
+    {
+      "path": "17d097cfaea24baf81aa5ed34330c12d",
+      "title": "ゴールデンウィークに社会人向けのプログラミングのオンライン授業を実施。完全初心者からでもサポート可能。"
+    },
+    {
+      "path": "1aa6077e4887808293c1c368a45d3feb",
+      "title": "【小さな改善が大きな業務改善に】課題をどこまで細分化しデジタル化できるか、的確な業務改善を進めるDX実装の話"
+    },
+    {
+      "path": "1b66077e4887804293b5fe30e8e1094d",
+      "title": "「本気でやり抜く覚悟のある人募集！」11期募集プレスリリース公開されました。"
+    },
+    {
+      "path": "1b7cbcbc80494ce0be092ecfb67436f2",
+      "title": "仕入れデータの抽出・加工の自動化を実現。小売の現場DX・リテールテックを促進する研修プログラムをイオンリテール株式会社にて実施"
+    },
+    {
+      "path": "1bb6077e4887808aa41dfe70078d7624",
+      "title": "ニュースメディア「VOIX」にてリリースが紹介されました！"
+    },
+    {
+      "path": "1cc6077e4887803fae8ece789e962f64",
+      "title": "阪神電気鉄道・阪急阪神不動産の非IT部門に向けて研修を実施しました！"
+    },
+    {
+      "path": "1cd6077e488780398090e01b441ad2f5",
+      "title": "誰でもできる！Cline で AI エージェントにコーディングを任せながらコマンドラインでかっこよくピザを頼もう！"
+    },
+    {
+      "path": "1cf6077e488780bd86d2efe5a430fe77",
+      "title": "プロトアウトMVP#3受賞作品の紹介"
+    },
+    {
+      "path": "1d76077e48878068b2e4c83c4af8f9b4",
+      "title": "非エンジニアがMCPを活用し、GoogleMaps×Notionで旅行プランを自動作成に挑戦してみた"
+    },
+    {
+      "path": "1e243b439bc34a0dae9d4c2fa0caaa5d",
+      "title": "同じ質問を発生させない仕組み"
+    },
+    {
+      "path": "1ea4f6a646df4e30ac8c834e2b1d86a9",
+      "title": "サービスカウンターが楽しくなるマニュアル検索ChatBotです。"
+    },
+    {
+      "path": "1ea9767807fa41bbacc39ed0fb9a07a8",
+      "title": "気まぐれUiPathの お知らせパトロール自動化 ～ChatGPTのマクロを添えて～"
+    },
+    {
+      "path": "2016077e4887806db9b0e29f6b810530",
+      "title": "【miibo×Zapier MCP】非エンジニアの元幼稚園教諭が園全体のタスク進捗管理LINE Botを作ってみた！"
+    },
+    {
+      "path": "2086077e48878096a3c2fe1f43073419",
+      "title": "VSCの拡張機能に追加された Claude Code を使って、バイブスだけで最高にチルなアプリをバイブコーディングする"
+    },
+    {
+      "path": "2144f9ddc1884eab952666a48e309139",
+      "title": "新　在庫表フォーマットを作る"
+    },
+    {
+      "path": "2165550f6e6642abb831d55126c28d71",
+      "title": "見える化で変える！資料作成のプロセス"
+    },
+    {
+      "path": "21a6077e48878097baeecbfb6c2aba36",
+      "title": "SEOはもう古い？WEBマーケティングはAIOとAEOの時代へ"
+    },
+    {
+      "path": "2256077e488780b28e7be1dba767934c",
+      "title": "現場発！よこね連絡帖で伝わる職場へ"
+    },
+    {
+      "path": "2256077e488780b89cc8fb330066a735",
+      "title": "スマホで楽々♪競争店調査アプリ"
+    },
+    {
+      "path": "2266077e48878069ba86c68f3959476f",
+      "title": "チーフいますか？問題にサヨナラ　デジタルで一問一答"
+    },
+    {
+      "path": "2266077e488780cf95c6e46b6224d120",
+      "title": "デリカの原料管理を効率化せよ"
+    },
+    {
+      "path": "2276077e48878022a84ff385248d3973",
+      "title": "～アプリで追加工事の完了報告と承認が完結!？～"
+    },
+    {
+      "path": "2296077e488780f081dace683bb63f86",
+      "title": "RAGの精度が上がらない？設定を見直してみよう！"
+    },
+    {
+      "path": "2316077e4887805984b6dcf13ffbf743",
+      "title": "【東京化成工業へ実施】試薬業界の新人が業務に即したAI開発。5日間の実践型プログラム"
+    },
+    {
+      "path": "2316077e48878096b771c4204cb1528c",
+      "title": "東京化成工業様で新人研修を実施！ITが苦手だった新入社員が、5日間で「生成AI×市民開発者」へ【研修レポート】"
+    },
+    {
+      "path": "231aed77dacb4bf685cbada805529329",
+      "title": "プロトタイプ開発の見積額が800万円だったものを数千円で"
+    },
+    {
+      "path": "23430ffaeb7d4dccb530275844e17a79",
+      "title": "「Xやインスタすら触ったことない…」そんな小売バイヤーがデジタルの世界へ足を踏み入れたことで解決できた課題とは！？"
+    },
+    {
+      "path": "2476077e4887809f857ce56be00a748e",
+      "title": "GA4のレポートを毎日自動で要約！Gemini CLIとGoogle Analytics MCPで作るGitHub Actionsワークフロー"
+    },
+    {
+      "path": "2486077e488780cd810bfafb989413b0",
+      "title": "個人情報管理のデジタル化〜毎日の押印からの解放〜"
+    },
+    {
+      "path": "2496077e488780779657cdd0c2a135ff",
+      "title": "問い合わせにすぐ答えられない…という悩み、AIチャットボットで解決しよう"
+    },
+    {
+      "path": "2496077e488780fcbf42fd2cfb76b3c5",
+      "title": "現場の引継ぎ「言ったはず…」をゼロにする挑戦"
+    },
+    {
+      "path": "24c6077e4887800cb750cca5d55cd487",
+      "title": "ノーコードツールで制作！タスク管理＆共有アプリ「TASK BOARD」で現場の困りごとを解決！"
+    },
+    {
+      "path": "24c6077e48878020a285deffb59f4b87",
+      "title": "非エンジニアがエンジニアと企画を練る為にvibe codingでモックアップ作ってみた。"
+    },
+    {
+      "path": "24d6077e48878043be62cd25fcf76c77",
+      "title": "現場×データ！AIカメラ「store analyzer」で見つけ出すPOSデータで見えないもの"
+    },
+    {
+      "path": "24d6077e488780c0866ade381d8314cf",
+      "title": "新人向けのマニュアルアプリ「おたすけくん（仮）」をつくりました！"
+    },
+    {
+      "path": "24d6077e488780f5ab18d7983c7737e8",
+      "title": "店舗内人材マッチングアプリを作成しました！"
+    },
+    {
+      "path": "25a6077e4887809b85c4dfefcd478778",
+      "title": "阪神電気鉄道にてDifyを用いた生成AI研修を実施。社員一人ひとりがAI活用を身近な存在へ。【研修レポート】"
+    },
+    {
+      "path": "2606077e488780289ae1d9e10ae06c2f",
+      "title": "MCPやGPT Image-1も体験！日立製作所81名の新人が挑んだ「IoT×生成AIプロトタイピング研修」【研修レポート】"
+    },
+    {
+      "path": "26c6077e48878097999dd1a06dd92a21",
+      "title": "社内チャットツールをアップデートせよ！"
+    },
+    {
+      "path": "26c6077e488780cfa5a4d0bbdbe1143e",
+      "title": "「Dify × Make × PowerAutomate」を活用した社内問い合わせBOT開発の挑戦記"
+    },
+    {
+      "path": "26d6077e488780048c5ad0a8e5b9a12d",
+      "title": "庶務業務効率化プロジェクト"
+    },
+    {
+      "path": "26d6077e4887801d8acfefd09791fd42",
+      "title": "小売りグループのDX最先端に丸腰で派遣されたオバチャンが武装開始する（かもしれない）お話"
+    },
+    {
+      "path": "26d6077e488780a09ee9e7e1df0fe9af",
+      "title": "150分の壁を壊せ！データ分析サポートツールを制作【RPA×Power BI】"
+    },
+    {
+      "path": "26d6077e488780cd9fa0cf0b12fead1f",
+      "title": "ーもう探し回らない！子会社の物件提案内容が一目でわかるー開発案件集約サイト"
+    },
+    {
+      "path": "26d6077e488780eea777f7c3825acbc5",
+      "title": "総務担当者の時間とミスの削減！"
+    },
+    {
+      "path": "26e6077e4887803c91b8e9d1f6814ff0",
+      "title": "「五十にして天命を知る」 年齢を迎えデジタルツールと向き合い業務改善に取り組む"
+    },
+    {
+      "path": "26f6077e48878053851bd48f754523bd",
+      "title": "最適な数量で”勘”の発注からの卒業！"
+    },
+    {
+      "path": "26f6077e48878061b327ec678985b75b",
+      "title": "生成AIを活用した業務フローのプロトタイピング"
+    },
+    {
+      "path": "26f6077e4887809d976bf2d8c4eae4b4",
+      "title": "リニューアル情報御用聞きツール"
+    },
+    {
+      "path": "26f6077e488780d5bdabeba5f0d8bf17",
+      "title": "面倒な発注、ぜんぶ僕に「たのんで！」業務改善アプリ『たのむ君』"
+    },
+    {
+      "path": "2716077e4887808cb204d7b8b0f0dec2",
+      "title": " 「AI活用の実践型ワークショップ」で生まれた多様な成果物とAI活用のコミュニティ　福井商工会議所【研修レポート】"
+    },
+    {
+      "path": "2736077e488780cb888eda3887613695",
+      "title": "レバレジーズ株式会社さまの【フリーランスHub】に掲載されました"
+    },
+    {
+      "path": "27aae7a3bdc44f87a21d089399ce1352",
+      "title": "発注実績自動取得でとにかく早く帰りたい！"
+    },
+    {
+      "path": "27b6077e488780209c8ed4770545eb1f",
+      "title": "日立製作所81名の新人が挑んだ「IoT×生成AIプロトタイピング研修」"
+    },
+    {
+      "path": "27e6077e4887807db1dcc06f0051b15d",
+      "title": "【事例付き】Vibe Codingとは？AI自動コーディングの魅力＆おすすめツールまとめ"
+    },
+    {
+      "path": "2866077e48878055985cec6bacad3b03",
+      "title": "3期目！阪神電気鉄道にてDifyを用いた生成AI研修を実施。社員一人ひとりがAI活用を身近な存在へ。"
+    },
+    {
+      "path": "28d6077e488780daad39d05c268cebda",
+      "title": "住友商事にて実施！実装まで行うバイブコーディング研修"
+    },
+    {
+      "path": "28ebf56894d8414ebc8df6a424e94621",
+      "title": "Notionのロールアップした値を計算するときTips"
+    },
+    {
+      "path": "2906077e48878076b9c6c24799fdbc3a",
+      "title": "Chrome DevTools MCPでAIクリエイティブコーディングバトル！"
+    },
+    {
+      "path": "2962c50cfd814606abde85825ea63955",
+      "title": "人生は短い。プロトアウトコミュニティに入れ！～雪山より愛をこめて～"
+    },
+    {
+      "path": "29843553124a4da284816d9990cf123b",
+      "title": "想いをカタチに　プロトアウトスタジオ卒業生の作品を紹介してみた"
+    },
+    {
+      "path": "29b39f27e7b14b698fc5dacae18bbb1f",
+      "title": "スーパーの店員自らノーコードでアプリ開発と試験運用まで。小売の現場DX・リテールテックを促進するプログラムをマックスバリュ東海株式会社にて採用"
+    },
+    {
+      "path": "29e6077e488780938c25df73dee385c3",
+      "title": "プロトアウトMVP#4受賞作品の紹介"
+    },
+    {
+      "path": "2a55e6731c5c4f72bd804993621d631e",
+      "title": "astro-notion-blogでGoogle Analyticsを設定する方法"
+    },
+    {
+      "path": "2a56077e48878060ad31d655bf604907",
+      "title": "自らが価値創出に参加できる人材を育成する　〜シビックテック・デザイン学創成シンポジウム登壇レポート〜"
+    },
+    {
+      "path": "2aa6077e48878088bb32ee605f51f73b",
+      "title": "わたし×AI＝VBAで効率化 ～720分が1分に！？～"
+    },
+    {
+      "path": "2ab6077e4887806ba3c2c524febfd654",
+      "title": "営業を助けるAI開発"
+    },
+    {
+      "path": "2ac6077e4887802a97aaec8a62f5e705",
+      "title": "“おにぎりサイズ”から始めるRPA改革"
+    },
+    {
+      "path": "2ac6077e4887805384ded14e230df10a",
+      "title": "【Kusuri Compass】医薬品出荷状況検索ツール"
+    },
+    {
+      "path": "2ac6077e488780acbeccece2100a1a68",
+      "title": "手書き！押印！昭和で止まった残業報告書の承認を令和仕様にアップデート"
+    },
+    {
+      "path": "2ad6077e48878067a14efe2fd3f595fc",
+      "title": "実績データ作成を簡単に"
+    },
+    {
+      "path": "2ad6077e488780e88cd1c6629f74604d",
+      "title": "「社内資格者名簿」作成を効率化するぞ大作戦！"
+    },
+    {
+      "path": "2ba6077e48878087b759dfa327da1e61",
+      "title": "ソロプレナーという選択肢──「個人で戦う」時代の新しいスタイル"
+    },
+    {
+      "path": "2ba6077e488780999d1cd834acc06b7d",
+      "title": "BANI時代に求められるスキルとは｜VUCAを超える不確実性の特徴と対処法"
+    },
+    {
+      "path": "2bb6077e4887809589ccc40f1610b723",
+      "title": "プロトタイピングとは？歴史とアジャイル開発との関係をわかりやすく解説"
+    },
+    {
+      "path": "2c953dfec03c44df947056f20c3130c6",
+      "title": "介護業界からデジタルの世界へ。「できない」を越えて技術を身に着けたからこそ気づいた、業務改善に本当に大切なものとは？"
+    },
+    {
+      "path": "2c96077e488780ad8851e851c7e2c025",
+      "title": "【研修レポート】システムの機能要望を社員から要望が上がる。阪神電気鉄道会社にてDify×業務改善研修を実施！ -"
+    },
+    {
+      "path": "2cb6077e488780b3987eecd2d4c614ae",
+      "title": "週間報告書をPADで自動作成！"
+    },
+    {
+      "path": "2cc6077e488780159263f58698f34eb9",
+      "title": "業務連絡引継ぎアプリ"
+    },
+    {
+      "path": "2cc6077e488780beb13bcc49fbc2f252",
+      "title": "【3期目実施】阪神電気鉄道にてDifyを用いた生成AI研修を実施。社員一人ひとりがAI活用を身近な存在へ。"
+    },
+    {
+      "path": "2cd6077e488780eeab80c1460a067fef",
+      "title": "お客様対応シートアプリによる業務改善"
+    },
+    {
+      "path": "2d3ffc37f0434ca88bdbd2793f667681",
+      "title": "自動でいい感じに改行を行ってくれる「BudouX」をWraptasに導入してみた！"
+    },
+    {
+      "path": "2d76077e4887809eb52bd0e51ebabb67",
+      "title": "人的資本経営とは？注目される背景と、成果につながる育成設計の考え方"
+    },
+    {
+      "path": "2d76077e488780a3a5acc4c0f0e48dd3",
+      "title": "PoC（Proof of Concept）の意味と役割──「検証したのに進まない」理由を整理する"
+    },
+    {
+      "path": "2d76077e488780ea8599dee8b2afb2a5",
+      "title": "リスキリングの意味をわかりやすく解説！──意味や定義、誤解されやすいポイント整理"
+    },
+    {
+      "path": "2df15f659f1d4dc68a45138dda5f185d",
+      "title": "クラウドファンディングのオーナーを目指すことで、技術力・企画力・発信力を鍛えるDX人材育成プログラム。サントリーシステムテクノロジーの社員研修に導入。"
+    },
+    {
+      "path": "2df67d3c5fd84650b2cf3fb2ed978c1d",
+      "title": "SlackからTeamsへ情報を即時に連携する "
+    },
+    {
+      "path": "2e3f6d2ae4e94b018445fb17620fed73",
+      "title": "デジタル初心者がプロトアウト体験会に参加してみた話"
+    },
+    {
+      "path": "2eb6077e488780f0ae3ee575ea6689bd",
+      "title": "Claudeの新機能「Cowork」は何ができる？導入方法／特徴／リスク／実践例をまとめて紹介"
+    },
+    {
+      "path": "2fa00df468bb4de98e41c98c6ee13eff",
+      "title": "クラフト・アート…領域や手段を超えてシームレスにものづくりできる場所「工作室もくもくはりねずみ」をつくった話"
+    },
+    {
+      "path": "339a76ac54724c038af6b0513dbe69e4",
+      "title": "miibo AIプロトタイピング短期講座、2期生募集開始！"
+    },
+    {
+      "path": "36ff3def4f834e80835cbb88b2af99c9",
+      "title": "「労働者を消費させない」労働環境への熱い想いで、最新ツールも使いこなし業務改善ツールを作り続けている話"
+    },
+    {
+      "path": "3706d0916a064db483ddb69e9dc81580",
+      "title": "値下げ・廃棄指標数値の管理自動化"
+    },
+    {
+      "path": "3774755341864f3394356905bd78558c",
+      "title": "JTCのデジタルリテラシー向上のためChatGPTの社内勉強会をしてみた！"
+    },
+    {
+      "path": "38c40028d99e446e95d4e1ea09a11ef3",
+      "title": "拾得物管理簿プロジェクト"
+    },
+    {
+      "path": "39204f4108554107805ee2bf11d525fa",
+      "title": "WebサイトをSTUDIOからWraptasに移行しました。"
+    },
+    {
+      "path": "3b30d555f4cc404a9f501f0f70f13967",
+      "title": "AIは使える/使えないのその先へ"
+    },
+    {
+      "path": "3d16077e48878063b64aca3f0e2d9ede",
+      "title": "FUN TO SHOPPING ー 歩いて買い物ができるバーチャルネットスーパー"
+    },
+    {
+      "path": "3db5dbecb4b143bba6901af495fb45fb",
+      "title": "「デジタル技術は使えるだけではだめ」業務改善を進めていく中で感じた、周囲を巻き込むために大切なこととは？"
+    },
+    {
+      "path": "3e5f59d2f9744657abe893516530d952",
+      "title": "Excel VBAに初挑戦！～定型作業を効率的に～"
+    },
+    {
+      "path": "3fcb0920e06a498799810bd8b2937ce3",
+      "title": "500%効率化！アパレルの手動発注を劇的に変えたプロトタイピング"
+    },
+    {
+      "path": "41c6cc2c9ca543308dfc4b8c114d988f",
+      "title": "目指そう。もっと便利な未来を。LINEBotで「簡易秘書」を作成"
+    },
+    {
+      "path": "4328ca3e22364389914d7fe61e88300a",
+      "title": "管理簿アプリで業務効率UP！"
+    },
+    {
+      "path": "43d4f52ee1c744d3a22c3bf7857bc4b1",
+      "title": "店舗従業員業務支援AI  「A子」"
+    },
+    {
+      "path": "43fb03d6ab1c4546a6d9010a518e7cb9",
+      "title": "自分の好きを形に。渾身の一番好きな店を登録するアプリ「推しメシ」開発への挑戦"
+    },
+    {
+      "path": "4429c0573aee43859dabee213dd5cb6a",
+      "title": "デジタル未経験から”DXといえば畠さんへ”現場に寄り添い課題を解決し、DX文化醸成へ取り組む話"
+    },
+    {
+      "path": "462bdf6168d34114adb8adb60c37adb1",
+      "title": "LINE Bot活用による、催事業者さんとの紙のやり取りゼロ化への挑戦"
+    },
+    {
+      "path": "4723d98dbc814c70ac31119f757a101f",
+      "title": "プロトアウトスタジオ【法人クラス】PEO5期・PEH2期がスタートしました！"
+    },
+    {
+      "path": "4866a6d41f994580badaff4d008e0718",
+      "title": "案件進捗管理アプリ ～タスクの一元化で情報収集をラクに！～"
+    },
+    {
+      "path": "49e49f83b31e4f09b757362c3604c84f",
+      "title": "まずはデータをキレイに管理しよう"
+    },
+    {
+      "path": "4a9316a2e7fb4a31a3bbaaa2a105d5e4",
+      "title": "この紙運用は本当に必要？アナログ現場に危機感を抱き、契約書類のデジタル化に挑戦した話"
+    },
+    {
+      "path": "4d6b1e5a1a054040a73283ac76f71498",
+      "title": "PowerAutomateDesktop 集計業務を自動化して 作業時間を89％削減"
+    },
+    {
+      "path": "4dfbeae8d6ab4ae48dc5bf2604ff492b",
+      "title": "超高精細と噂の3Dプリンター 「Qholia」に挑戦してみた！"
+    },
+    {
+      "path": "4e47cf8d149449b2afb3f51356e7be88",
+      "title": "【Wraptas】Notinoの同期ブロックを活用して、ブログにおすすめの記事を表示させる"
+    },
+    {
+      "path": "511a1b2b160c46c496b206580f536dfd",
+      "title": "「これ、自分でつくれるかも！」研修で身につけた”自分で作る力”で、見積もり100万円のツールを自作した話。"
+    },
+    {
+      "path": "55558431b15f4b4f8f281a3e055b6c23",
+      "title": "めんどくさがりの私が、楽しみながら取り組む「業務改善」「子育てものづくり」の話"
+    },
+    {
+      "path": "57c52f1a649d49f29c749a3b359e7a4b",
+      "title": "「作って」ではなく「自分でつくります」を増やしたい！そんな世界を実現するために挑戦した話。"
+    },
+    {
+      "path": "58a64b6a0bb5436685f396a6e926b64f",
+      "title": "プログラミング初心者から「自走できる状態」になるための秘訣とは？"
+    },
+    {
+      "path": "5a59e308eabb4ab5bfcbbdc249878cb2",
+      "title": "カラオケ嫌いによる、カラオケ嫌いのための、カラオケ克服プロジェクト"
+    },
+    {
+      "path": "5a73eb8683ca4e2b907a66578a3e6cc1",
+      "title": "DX人材育成担当者がファーストペンギンとしてデジタルの世界に飛び込み、プロトタイプの開発・発信を通じて、組織文化を変革した話"
+    },
+    {
+      "path": "5bfd26dbe0894005832e6be1685fe60c",
+      "title": "プロトアウト8期がスタートしました。"
+    },
+    {
+      "path": "5d46d8058f69499a82ca855711387970",
+      "title": "毎日のルーチン業務を自動化"
+    },
+    {
+      "path": "5db49f86a27e4c039d11e38dec47e47a",
+      "title": "防災チェックアプリ作ってみた"
+    },
+    {
+      "path": "5fda5a8a20de4539b693dc4a1e56ee04",
+      "title": "法務の課題であるナレッジ共有について先例集で解決を試みた件"
+    },
+    {
+      "path": "6174afa479c74e8eb6b33e4e0442e6b4",
+      "title": "様々なジャンルのプロトアウト活動が集結！プロトアウト LT祭が開催！"
+    },
+    {
+      "path": "6217511903304959a06a6474cefe063e",
+      "title": "人生にスパイスを！現役エンジニアが、生涯かけて作りたいと思える「シーシャアプリ」に出会った話"
+    },
+    {
+      "path": "6351668384b342a5a887a01a2ccb9b53",
+      "title": "Power Automate Desktopでルーチンワークの一部を自動化"
+    },
+    {
+      "path": "643a22e70ead437682a1e5520e621e19",
+      "title": "クラファン623%達成！目指す世界の火種を、発見し燃やし続ける秘訣とは？"
+    },
+    {
+      "path": "64cdd752160e4f4dba0d17770458aac0",
+      "title": "WraptasにWebサイト移行してから一年たって感じたこと"
+    },
+    {
+      "path": "6679792239c84b628628acaf192d9aa0",
+      "title": "申請承認フロー自動化へ"
+    },
+    {
+      "path": "693be4c8ffd842c99fef89ae23a56da8",
+      "title": "手間いらずのExcel！入力作業の新常識　Power Automate for desktop  "
+    },
+    {
+      "path": "69bcc7ecc4e241ce84004e720c136b17",
+      "title": "時短毎月300時間！年間コスト360万円削減できる！？店舗の備品貸出管理簿をデジタル化"
+    },
+    {
+      "path": "6a90f3318718474a842311b0838799ed",
+      "title": "PowerAutomateとVBAで作業工数入力に関わる時間の削減"
+    },
+    {
+      "path": "6b863e9c6450490ab1d44310aaba3e71",
+      "title": "ノーコードとローコードの違いは？特徴や開発ツールについて解説"
+    },
+    {
+      "path": "6ed50d959f9843b49b911f01427c0078",
+      "title": "現役の医師がプロトタイピングスキルを学んだことで見えてきた、医療業界のテクノロジーだけでは超えられない壁とは？"
+    },
+    {
+      "path": "6fe15d468f3e4c5aad70ead1814ea428",
+      "title": "Wraptasで追加CSSを書くときのポイント"
+    },
+    {
+      "path": "704a80bcf1c34091a0d4edadb8021686",
+      "title": "店舗運営がスムーズになるかもしれない掲示板アプリ作ってみた！"
+    },
+    {
+      "path": "7094f5994cd6458a99f4c6b683945ef1",
+      "title": "公図作成をデジタル化して手作業から解放"
+    },
+    {
+      "path": "7106117c16fb4047a00e384fd6b7ff51",
+      "title": "業務連絡をGlideでデジタル化！"
+    },
+    {
+      "path": "71ad29b2ffa5444f9cf7602368b6763c",
+      "title": "事務的な作業をスマホ1つで楽ちんに！"
+    },
+    {
+      "path": "72e691790d704919a816455b7994ea1a",
+      "title": "簡単に業務担当部署が確認できるアプリを広めたい"
+    },
+    {
+      "path": "76aa7bcf1e3e4757868c4ed2db73a96b",
+      "title": "電子注文書で発注処理を完全ペーパーレスに"
+    },
+    {
+      "path": "78118473ae044246a8d98f016db84a70",
+      "title": "プロトアウトスタジオ【法人クラス】PMV3期がスタートしました！"
+    },
+    {
+      "path": "79b886060d6f4471b65952f75d787b41",
+      "title": "スーパー小学生の登場！？年代も内容も幅広かったIoTLT vol99 に初参加してきました！"
+    },
+    {
+      "path": "7c04e086320f4444b29eef659c1da4ed",
+      "title": "動画マニュアル作成編集と視聴アプリ作成"
+    },
+    {
+      "path": "7c2b2c4745fe49ccbb4bf7f8cf68fde2",
+      "title": "Glideを使用した業務改善"
+    },
+    {
+      "path": "7e09c3be599242a2a0574213a7f44d6c",
+      "title": "LINEで子供の薬を簡単検索！サポート型LINEBot「メディエイド」"
+    },
+    {
+      "path": "8020f9bb9828409787be5df877807d8a",
+      "title": "承認をデジタルで　紙の申請書をなくす"
+    },
+    {
+      "path": "8148562509234167a09ad545374c4e30",
+      "title": "「クラウドファンディング応援大会」プロトアウトLT祭Vol.04が開催！"
+    },
+    {
+      "path": "83593c4c09d042239f27d50fbf8778f6",
+      "title": "「エンジニアの言葉が分からん…」そんな私が「心底作りたいもの」と向き合った本気の4か月間 #ものづくり"
+    },
+    {
+      "path": "843a68f440234c6abd59d4e43066a16a",
+      "title": "話題のノーコードツール「Pipedream」を使って、LINE Botを作ってみた"
+    },
+    {
+      "path": "857f71bf1d024babaf0690e3304489d1",
+      "title": "停電時の作業をデジタルで改善"
+    },
+    {
+      "path": "85a9219d42fb4838a649ebb36f6f748d",
+      "title": "自動化でみんなの時間をクリエイト"
+    },
+    {
+      "path": "85ba905753214d389fb2e3c8e17bf9a6",
+      "title": "【一人一投稿】人生で一番好きな店だけ集まったグルメアプリ「推しメシ」"
+    },
+    {
+      "path": "86820968205b4a9b972c0553d91e1477",
+      "title": "店舗と業者の品切れ報告ツール「じものコンタクト」"
+    },
+    {
+      "path": "89d04dd2648747a2b51f6f7b2afbaf0f",
+      "title": "画像判別ツール　見ワケルン"
+    },
+    {
+      "path": "8a996fb5005c41648158451137ff28e6",
+      "title": "Google FormsをWEBサイトに埋め込んだら二重スクロールになってしまう問題を解決した！Tips"
+    },
+    {
+      "path": "8d733406c5d94486897b2eb9c7bc764a",
+      "title": "Q&Aアプリで問い合わせ対応から解放"
+    },
+    {
+      "path": "8d8829a716f44fd29a148d8acc72b2f7",
+      "title": "コピペ不可の社内ツール「電子申請」をPADでコピペして集計業務を楽にする。"
+    },
+    {
+      "path": "8df0ce990e8742008b4f8773e9f65408",
+      "title": "たまに使うNotionの関数メモ"
+    },
+    {
+      "path": "8f768a44c8914d36b8d2d57b8dbc4ae2",
+      "title": "発注支援ツールの作成"
+    },
+    {
+      "path": "8fda58bfc2eb4e19a2759c16b2663065",
+      "title": "お客さまへおすすめワインを教えるアプリ"
+    },
+    {
+      "path": "90f0158a70854fa9b3206c8059369f2a",
+      "title": "データの自動化★決裁申請ツールをつくっちゃおう！"
+    },
+    {
+      "path": "91378b440f6c446ab67fe16c9f20c811",
+      "title": "社内Botで業務改善　おすすめ三選"
+    },
+    {
+      "path": "9756cf92b37d4a829d3a782112ccf7b0",
+      "title": "Power Automate Desktopで仕入れ進捗管理の自動化"
+    },
+    {
+      "path": "98170ea22cb3486c88ddcef1fae1553d",
+      "title": "めんどくさがりの私が、楽しみながら取り組む「業務改善」「子育てものづくり」の話"
+    },
+    {
+      "path": "9d8a7dde15ec41cbbceebc6df5558080",
+      "title": "会話のきっかけを作ってくれる『よよぼっと』"
+    },
+    {
+      "path": "9e66fb0479194bada426cbed83320e2f",
+      "title": "リアルタイムでキモチを伝える！　夫婦専用承認システム『Kimochi-in』"
+    },
+    {
+      "path": "a056fffc593347b8aa3f1f2d27ec9fd2",
+      "title": "手順書アプリを内製したい！"
+    },
+    {
+      "path": "a5041a33fcc0473799afd12b30f3a199",
+      "title": "待ち合わせが繋ぐふたりの初恋時間「ときメーター」"
+    },
+    {
+      "path": "a5540b7cee5b447ab6695512963e729b",
+      "title": "アイデアを5秒以内に残せるアプリ「Atoms」"
+    },
+    {
+      "path": "a558a6e6fc5d4eaba19c9ac56870aa82",
+      "title": "わかりやすいデータ管理のために！人事データ一括管理アプリ作ってみた"
+    },
+    {
+      "path": "a6eb9e212ee84e7895df35ad6e0f6c85",
+      "title": "無料で始められる！NotionでWebサイトが作れるサービス8選"
+    },
+    {
+      "path": "a7f809fe1e3743ec8725939e84a519bd",
+      "title": "売場情報を手元で確認"
+    },
+    {
+      "path": "a88fab872c5542018fe7d487c14e18c3",
+      "title": "リアル育成ゲーム『バンちゃん』で雑談苦手克服するプロジェクト！"
+    },
+    {
+      "path": "a9c89547156148fd8bb396002cbb2a8f",
+      "title": "Teamsを活用！ChatBotで業務改善 "
+    },
+    {
+      "path": "ae61396186974e54a58e7b3e8133ac0d",
+      "title": "コミュニティ運営やDX化コンサルの法人を設立、プロトアウトスタジオ本科を経て人生が激変した和智さんが、そこで学んだものとは？"
+    },
+    {
+      "path": "aeec4e3ea329455c91ed3c8bfdaa7dff",
+      "title": "Glideでコンクール審査票をアプリにしたら、時短＆フィードバックが楽々に！"
+    },
+    {
+      "path": "b0a718e0fe3f42dd83bd425cefe06788",
+      "title": "クレジットカード会員新規獲得スタッフの業務内容分析の自動化による業務効率改善"
+    },
+    {
+      "path": "b106afbca11f40658bd1891aa854ba07",
+      "title": "報告書管理をスマート化（研修2.0を目指して）"
+    },
+    {
+      "path": "b1d1626ed326432b994b6b72b0df6e78",
+      "title": "ARで野球に参加！守備と攻守交替を観戦しながら徹底的に追体験する「10人目の仲間」"
+    },
+    {
+      "path": "b2665cf3985d4ccd840dcbce66adeeda",
+      "title": "ECの商品登録間違いは、RPA化して防ぐ方法が見つかっちゃった！"
+    },
+    {
+      "path": "b3f9f37b3b744c06a1d73614ab5a2c88",
+      "title": "林 千秋"
+    },
+    {
+      "path": "b836f121c9b94a919813c7ac588136fb",
+      "title": "品質管理を簡単にする賞味期限管理アプリ！！　～管理をスキャンで簡易に出来る～　SCANLEE(スキャンリー)"
+    },
+    {
+      "path": "b8b761a700544451be5cdd8b8d0afd35",
+      "title": "採用業務の自動化パッケージ"
+    },
+    {
+      "path": "ba461a99a7614b22b9cebc0445d60230",
+      "title": "アナログ作業からの脱却"
+    },
+    {
+      "path": "bb49d19825f64e299974ed4d450b2123",
+      "title": "申請業務の簡略化～PowerAutomateで三方よしの会社をめざす～"
+    },
+    {
+      "path": "bc28774e10fb4f7b8ccff2ccc46330a1",
+      "title": "のびすけ"
+    },
+    {
+      "path": "bdc8171a96de4e1faebda8a13eb1589f",
+      "title": "非エンジニアがChat GPTの力でWEBサイトを作った話"
+    },
+    {
+      "path": "c11f612e506346f29b5e86e195d0f50a",
+      "title": "食品衛生のデータ収集の自動化"
+    },
+    {
+      "path": "c216c9b4c66e462480a80f1baeb86280",
+      "title": "生成AI・ChatGPTを活用してExcelマクロを作成〜請求明細作成ツール〜"
+    },
+    {
+      "path": "c3f2a96813cf48fc98c7e6b1402b9c40",
+      "title": "シフト作成の自動化を目指して。"
+    },
+    {
+      "path": "c447856979e34a0fae1df8cd11c862e2",
+      "title": "うこ"
+    },
+    {
+      "path": "c5b9ef3c413c42ea8f8d07830c7bbd39",
+      "title": "店頭販促物取り付けフォローアプリを作成してみた！"
+    },
+    {
+      "path": "c6185be935e645aebae0d203ccc3b400",
+      "title": "新規事業開発を「新規」に取り組む際の2つの「無い」を解消する、DX時代のイントレプレナー育成プログラムの提供を開始"
+    },
+    {
+      "path": "c91c8dadc304484e87143961d123266f",
+      "title": "話題のノーコードツール「Pipedream」を使って、LINE Botを作ってみた"
+    },
+    {
+      "path": "c9bc6642f4534f0bbc92b938e650dbd3",
+      "title": "Uber EATS業務を店舗の武器に"
+    },
+    {
+      "path": "ca6b468c56e747aaa3734375f4e44036",
+      "title": "とにかく紙を無くしたい！メールのやり取りすら断られる世界で打ち出した改善策とは！？"
+    },
+    {
+      "path": "case_studies",
+      "title": "企業インタビューページ"
+    },
+    {
+      "path": "cb4b3b5bd1cc46309389e199e522f07e",
+      "title": "知っておきたいプロトタイピングのメリット・デメリット！活用事例も解説！"
+    },
+    {
+      "path": "community",
+      "title": "つくる・発信をつづけるプロトアウトスタジオのアルムナイコミュニティに参加しよう！"
+    },
+    {
+      "path": "d0dc7610e417478ab06af237e32f0ddd",
+      "title": "私の職場のAさんを救いたい！PADで集計作業を自動化"
+    },
+    {
+      "path": "d149a5fde4f24a68abb46d1e1f698276",
+      "title": "社内LinuxサーバでPythonを使用し、温度計点検を全自動化"
+    },
+    {
+      "path": "d2f79bc03db14881880045d4aa7e1c1d",
+      "title": "病院勤務の看護師から、WEBサイトも作れるものづくりナースへ。その転機とは！？"
+    },
+    {
+      "path": "d59739b8ad4e4903a73d31abdcf3b089",
+      "title": "チームの今が見える！営業支援アプリ"
+    },
+    {
+      "path": "d6197eb417934746af6aa8669f8c4aab",
+      "title": "ノーコードアプリ開発とは？ツール選びのポイントやおすすめツールを解説"
+    },
+    {
+      "path": "d700e727869d40989b8bb22987eef26f",
+      "title": " "
+    },
+    {
+      "path": "d79005c2feb74827981d7cc0f44af9f3",
+      "title": "プロトタイピングとは？開発業務に欠かせないプロセスの概要を解説"
+    },
+    {
+      "path": "e1236ef7513744afaec0593703caee6b",
+      "title": "Difyを使ってWebサイト用のチャットボットを作ってみた！"
+    },
+    {
+      "path": "e1e4a6b7e00c4f76a543b5f11c77dbaf",
+      "title": "魔の“反復作業”から抜け出せ！！【Power Automate Desktop】"
+    },
+    {
+      "path": "e1e81fba5f76494a914f97b1af31481d",
+      "title": "伴野 智樹"
+    },
+    {
+      "path": "e23fd8b38cc742dea8822121e91d562a",
+      "title": "「令和に紙だらけ？」プログラミング未経験の小売業法務担当が、デジタル業務効率化を断行した話！"
+    },
+    {
+      "path": "e4ae38a18fd249859432714da4ae916f",
+      "title": "レジ業務をスマートに！レジ運用アプリで効率化"
+    },
+    {
+      "path": "e4ec5719b4f54574b1fceafe1661ed5e",
+      "title": "毎月の業務を完全自動化！"
+    },
+    {
+      "path": "e5958eed437548f2b98be96d9fa31f71",
+      "title": "Glideでルーチンワークをデジタル化"
+    },
+    {
+      "path": "e65069078eeb4c67928ba194255e3c0f",
+      "title": "Difyで作成したチャットボットにLINE通知機能を付けてみる"
+    },
+    {
+      "path": "ecf34fc1f4a44aac99b59a3eabbee4ed",
+      "title": "5分でわかる卒業生インタビューまとめ。アナログ業界からデジタルへ挑戦！"
+    },
+    {
+      "path": "eventcalendar",
+      "title": "イベントカレンダー"
+    },
+    {
+      "path": "f029129756484036949f4cf3bea38be9",
+      "title": "振替起案を効率化！　　「振替業務自動化 ツール」の作成"
+    },
+    {
+      "path": "f5f5306dd1e04a368ee8ef12ea8f32dc",
+      "title": "「つくる」がもっと好きになるコンテスト、ヒーローズリーグの作品を紹介してみた"
+    },
+    {
+      "path": "f603b33189094449b0056186914b25cf",
+      "title": "現役エンジニアが受託マインドからプロダクトオーナーへ。エンジニアこそプロトアウトを学ぶべき理由とは？"
+    },
+    {
+      "path": "faabc1111a564a7ab1d173e65d977671",
+      "title": "AppSheetで作成！　画像報告アプリ"
+    },
+    {
+      "path": "fd432e0cfd524f049aec20db169474ff",
+      "title": "業務自動化で利益貢献へ！大手小売業の社員が、悪戦苦闘しながら現場の課題解決能力向上に挑戦している話"
+    },
+    {
+      "path": "ffa695ec67f9427a94197740c1b74a44",
+      "title": "それって自分で作れるかも～企画・開発・発信の輪を広げる為には～"
+    },
+    {
+      "path": "ffd58071e70742f796684d5c7369a2ef",
+      "title": "社内コミュニティ立ち上げや生成AIで課題解決など、小売業界で挑戦を続けるさわやまさんが語る、デジタル文化醸成の要因とは！？"
+    },
+    {
+      "path": "miibo",
+      "title": "miibo AIプロトタイピング講座 "
+    },
+    {
+      "path": "mvp",
+      "title": "つくりつづけ、仲間のものづくりを応援する人を表彰する「プロトアウトMVP」"
+    },
+    {
+      "path": "mvp1",
+      "title": "つくりつづけ、仲間のものづくりを応援する人を表彰する「プロトアウトMVP」"
+    },
+    {
+      "path": "mvp2",
+      "title": "つくりつづけ、仲間のものづくりを応援する人を表彰する「プロトアウトMVP」#2"
+    },
+    {
+      "path": "mvp3",
+      "title": "つくりつづけ、仲間のものづくりを応援する人を表彰する「プロトアウトMVP」#3"
+    },
+    {
+      "path": "mvp4",
+      "title": "つくりつづけ、仲間のものづくりを応援する人を表彰する「プロトアウトMVP」#4"
+    },
+    {
+      "path": "mvp5",
+      "title": "「つくる」を楽しみ続ける人を表彰する「プロトアウトMVP」#5 "
+    }
+  ]
+}
