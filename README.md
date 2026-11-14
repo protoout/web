@@ -98,3 +98,7 @@ qa/                                実装スクリーンショットと比較画
 ページ追加時は `src/data/pages.json` だけでなく `src/data/publication-policy.json` の許可リストも更新します。旧サイトの404ページや未承認ページは生成時点で拒否します。`npm test` と `npm run verify` を実行してください。カテゴリ別URLと旧URLの301転送は [Issue #3](https://github.com/protoout/web/issues/3) に分けており、まだ切り替えていません。
 
 Issueは `migration`（移行・互換性・保全）と `enhancement`（機能追加・改善）で分類します。GitHub上のIssue作成テンプレートも2種類に分け、選んだ種類のラベルが自動で付くようにしています。
+
+## 移行の作業ログ
+
+実施済みの変更、検証結果、決定事項、未実施のIssueは [logs/README.md](logs/README.md) から確認できます。日付別ログは日本時間で記録しています。

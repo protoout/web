@@ -1,0 +1,260 @@
+{
+  "recordedDate": "2026-11-15",
+  "timezone": "Asia/Tokyo",
+  "source": "GitHub Issues API via gh issue list --state all",
+  "note": "取得時点の履歴用スナップショット。以後の状態はGitHubを参照。OPENは未完了で、仕様検討項目も含む。",
+  "issues": [
+    {
+      "createdAt": "2026-11-14T05:43:12Z",
+      "labels": [
+        {
+          "id": "LA_kwDOVtNd588AAAADC2N-Zw",
+          "name": "migration",
+          "description": "既存サイトからの移行・互換性・データ保全に必要な対応",
+          "color": "0E8A16"
+        }
+      ],
+      "number": 1,
+      "state": "OPEN",
+      "title": "Wraptas依存の動画16点を保全してローカル配信へ切り替える",
+      "updatedAt": "2026-11-14T05:47:44Z",
+      "url": "https://github.com/protoout/web/issues/1",
+      "createdAtJST": "2026-11-14T14:43:12+09:00",
+      "updatedAtJST": "2026-11-14T14:47:44+09:00"
+    },
+    {
+      "createdAt": "2026-11-14T05:43:17Z",
+      "labels": [
+        {
+          "id": "LA_kwDOVtNd588AAAADC2N-Zw",
+          "name": "migration",
+          "description": "既存サイトからの移行・互換性・データ保全に必要な対応",
+          "color": "0E8A16"
+        }
+      ],
+      "number": 2,
+      "state": "OPEN",
+      "title": "Notion正式エクスポートと照合し、本文・共有ブロック・添付の欠落を確認する",
+      "updatedAt": "2026-11-14T05:47:49Z",
+      "url": "https://github.com/protoout/web/issues/2",
+      "createdAtJST": "2026-11-14T14:43:17+09:00",
+      "updatedAtJST": "2026-11-14T14:47:49+09:00"
+    },
+    {
+      "createdAt": "2026-11-14T05:47:54Z",
+      "labels": [
+        {
+          "id": "LA_kwDOVtNd588AAAADC2N-Zw",
+          "name": "migration",
+          "description": "既存サイトからの移行・互換性・データ保全に必要な対応",
+          "color": "0E8A16"
+        }
+      ],
+      "number": 3,
+      "state": "OPEN",
+      "title": "旧サイトマップからカテゴリ別の新URL対応表を作り、旧URLを301転送する",
+      "updatedAt": "2026-11-14T13:32:50Z",
+      "url": "https://github.com/protoout/web/issues/3",
+      "createdAtJST": "2026-11-14T14:47:54+09:00",
+      "updatedAtJST": "2026-11-14T22:32:50+09:00"
+    },
+    {
+      "createdAt": "2026-11-14T14:29:06Z",
+      "labels": [
+        {
+          "id": "LA_kwDOVtNd588AAAADC2N-Zw",
+          "name": "migration",
+          "description": "既存サイトからの移行・互換性・データ保全に必要な対応",
+          "color": "0E8A16"
+        },
+        {
+          "id": "LA_kwDOVtNd588AAAADC6Bqdw",
+          "name": "priority:high",
+          "description": "高：本文や主要導線の欠落。移行前の対応を優先",
+          "color": "B60205"
+        }
+      ],
+      "number": 4,
+      "state": "OPEN",
+      "title": "記事本文のYouTube埋め込みが空のコンテナになっているページを確認・対応する",
+      "updatedAt": "2026-11-14T14:29:06Z",
+      "url": "https://github.com/protoout/web/issues/4",
+      "createdAtJST": "2026-11-14T23:29:06+09:00",
+      "updatedAtJST": "2026-11-14T23:29:06+09:00"
+    },
+    {
+      "createdAt": "2026-11-14T14:29:14Z",
+      "labels": [
+        {
+          "id": "LA_kwDOVtNd588AAAADC2N-Zw",
+          "name": "migration",
+          "description": "既存サイトからの移行・互換性・データ保全に必要な対応",
+          "color": "0E8A16"
+        },
+        {
+          "id": "LA_kwDOVtNd588AAAADC6Bqyg",
+          "name": "priority:medium",
+          "description": "中：回遊性や移行品質に影響。移行前に方針と対応を確認",
+          "color": "FBCA04"
+        }
+      ],
+      "number": 5,
+      "state": "OPEN",
+      "title": "一部の記事詳細で新着・人気記事のカードが欠落している",
+      "updatedAt": "2026-11-14T14:29:14Z",
+      "url": "https://github.com/protoout/web/issues/5",
+      "createdAtJST": "2026-11-14T23:29:14+09:00",
+      "updatedAtJST": "2026-11-14T23:29:14+09:00"
+    },
+    {
+      "createdAt": "2026-11-14T14:34:23Z",
+      "labels": [
+        {
+          "id": "LA_kwDOVtNd588AAAADC2N-Zw",
+          "name": "migration",
+          "description": "既存サイトからの移行・互換性・データ保全に必要な対応",
+          "color": "0E8A16"
+        },
+        {
+          "id": "LA_kwDOVtNd588AAAADC6Bqyg",
+          "name": "priority:medium",
+          "description": "中：回遊性や移行品質に影響。移行前に方針と対応を確認",
+          "color": "FBCA04"
+        },
+        {
+          "id": "LA_kwDOVtNd588AAAADC6BrfQ",
+          "name": "needs-decision",
+          "description": "修正を前提にせず、移行先での仕様・採否を判断する",
+          "color": "D4C5F9"
+        }
+      ],
+      "number": 6,
+      "state": "OPEN",
+      "title": "共通フッターの運営情報・リンクを移行先でどう残すか決める",
+      "updatedAt": "2026-11-14T14:34:23Z",
+      "url": "https://github.com/protoout/web/issues/6",
+      "createdAtJST": "2026-11-14T23:34:23+09:00",
+      "updatedAtJST": "2026-11-14T23:34:23+09:00"
+    },
+    {
+      "createdAt": "2026-11-14T14:34:32Z",
+      "labels": [
+        {
+          "id": "LA_kwDOVtNd588AAAADC2N-Zw",
+          "name": "migration",
+          "description": "既存サイトからの移行・互換性・データ保全に必要な対応",
+          "color": "0E8A16"
+        },
+        {
+          "id": "LA_kwDOVtNd588AAAADC6BrMA",
+          "name": "priority:low",
+          "description": "低：仕様次第で許容できる差や見た目の調整",
+          "color": "C5DEF5"
+        },
+        {
+          "id": "LA_kwDOVtNd588AAAADC6BrfQ",
+          "name": "needs-decision",
+          "description": "修正を前提にせず、移行先での仕様・採否を判断する",
+          "color": "D4C5F9"
+        }
+      ],
+      "number": 7,
+      "state": "OPEN",
+      "title": "記事一覧のNotionビュー切替UIを廃止・置換するか判断する",
+      "updatedAt": "2026-11-14T14:34:32Z",
+      "url": "https://github.com/protoout/web/issues/7",
+      "createdAtJST": "2026-11-14T23:34:32+09:00",
+      "updatedAtJST": "2026-11-14T23:34:32+09:00"
+    },
+    {
+      "createdAt": "2026-11-14T14:34:39Z",
+      "labels": [
+        {
+          "id": "LA_kwDOVtNd588AAAADC2N-Zw",
+          "name": "migration",
+          "description": "既存サイトからの移行・互換性・データ保全に必要な対応",
+          "color": "0E8A16"
+        },
+        {
+          "id": "LA_kwDOVtNd588AAAADC6BrMA",
+          "name": "priority:low",
+          "description": "低：仕様次第で許容できる差や見た目の調整",
+          "color": "C5DEF5"
+        },
+        {
+          "id": "LA_kwDOVtNd588AAAADC6BrfQ",
+          "name": "needs-decision",
+          "description": "修正を前提にせず、移行先での仕様・採否を判断する",
+          "color": "D4C5F9"
+        }
+      ],
+      "number": 8,
+      "state": "OPEN",
+      "title": "Notionブックマークのプレビュー画像を移行先で維持するか判断する",
+      "updatedAt": "2026-11-14T14:34:39Z",
+      "url": "https://github.com/protoout/web/issues/8",
+      "createdAtJST": "2026-11-14T23:34:39+09:00",
+      "updatedAtJST": "2026-11-14T23:34:39+09:00"
+    },
+    {
+      "createdAt": "2026-11-14T14:34:45Z",
+      "labels": [
+        {
+          "id": "LA_kwDOVtNd588AAAADCvC_KA",
+          "name": "enhancement",
+          "description": "移行対応とは別の新機能・機能改善",
+          "color": "a2eeef"
+        },
+        {
+          "id": "LA_kwDOVtNd588AAAADC6BrMA",
+          "name": "priority:low",
+          "description": "低：仕様次第で許容できる差や見た目の調整",
+          "color": "C5DEF5"
+        },
+        {
+          "id": "LA_kwDOVtNd588AAAADC6BrfQ",
+          "name": "needs-decision",
+          "description": "修正を前提にせず、移行先での仕様・採否を判断する",
+          "color": "D4C5F9"
+        }
+      ],
+      "number": 9,
+      "state": "OPEN",
+      "title": "日本語フォントの配信容量を測定しWOFF2・サブセット化を検討する",
+      "updatedAt": "2026-11-14T14:34:45Z",
+      "url": "https://github.com/protoout/web/issues/9",
+      "createdAtJST": "2026-11-14T23:34:45+09:00",
+      "updatedAtJST": "2026-11-14T23:34:45+09:00"
+    },
+    {
+      "createdAt": "2026-11-14T15:17:09Z",
+      "labels": [
+        {
+          "id": "LA_kwDOVtNd588AAAADCvC_KA",
+          "name": "enhancement",
+          "description": "移行対応とは別の新機能・機能改善",
+          "color": "a2eeef"
+        },
+        {
+          "id": "LA_kwDOVtNd588AAAADC6Bqyg",
+          "name": "priority:medium",
+          "description": "中：回遊性や移行品質に影響。移行前に方針と対応を確認",
+          "color": "FBCA04"
+        },
+        {
+          "id": "LA_kwDOVtNd588AAAADC6BrfQ",
+          "name": "needs-decision",
+          "description": "修正を前提にせず、移行先での仕様・採否を判断する",
+          "color": "D4C5F9"
+        }
+      ],
+      "number": 10,
+      "state": "OPEN",
+      "title": "connpassのイベント情報をGitHub Actionsで定期取得しサイトへ自動反映する",
+      "updatedAt": "2026-11-14T15:17:09Z",
+      "url": "https://github.com/protoout/web/issues/10",
+      "createdAtJST": "2026-11-15T00:17:09+09:00",
+      "updatedAtJST": "2026-11-15T00:17:09+09:00"
+    }
+  ]
+}
